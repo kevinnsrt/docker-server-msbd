@@ -1,0 +1,317 @@
+{
+    "id": "48bKH1ugFBhERC1rdojP9d",
+    "name": "Dewa 19",
+    "verified": true,
+    "followers": 7990112,
+    "monthlyListeners": 7870277,
+    "worldRank": 0,
+    "topCities": [
+        {
+            "country": "ID",
+            "city": "Jakarta",
+            "numberOfListeners": 3368649
+        },
+        {
+            "country": "ID",
+            "city": "Bandung",
+            "numberOfListeners": 759872
+        },
+        {
+            "country": "ID",
+            "city": "Surabaya",
+            "numberOfListeners": 437845
+        },
+        {
+            "country": "ID",
+            "city": "Makassar",
+            "numberOfListeners": 391888
+        },
+        {
+            "country": "ID",
+            "city": "Semarang",
+            "numberOfListeners": 315385
+        }
+    ],
+    "topTracks": [
+        {
+            "id": "3ZyMRe0jlSqffPBMeHUZFX",
+            "name": "Kangen",
+            "streamCount": 211540954,
+            "duration": 300512,
+            "contentRating": "none"
+        },
+        {
+            "id": "5JESuE80fvausWHjcT9QVh",
+            "name": "Aku Milikmu",
+            "streamCount": 111541853,
+            "duration": 332733,
+            "contentRating": "none"
+        },
+        {
+            "id": "0MYAQRR7ZIIE1QD0rFgcMI",
+            "name": "Risalah Hati",
+            "streamCount": 35980990,
+            "duration": 345882,
+            "contentRating": "none"
+        },
+        {
+            "id": "6JusI70TeT9M2O1MXyXRRv",
+            "name": "Separuh Nafas",
+            "streamCount": 151051046,
+            "duration": 222029,
+            "contentRating": "none"
+        },
+        {
+            "id": "2zcPAFEc7mhULI9PZMBWUx",
+            "name": "Dewi",
+            "streamCount": 73195061,
+            "duration": 261363,
+            "contentRating": "none"
+        },
+        {
+            "id": "35E6odHU6yHAN0harHjemH",
+            "name": "Roman Picisan",
+            "streamCount": 79031513,
+            "duration": 245016,
+            "contentRating": "none"
+        },
+        {
+            "id": "6MwIBSBiAMGomp4I80Xkgw",
+            "name": "Cinta 'Kan Membawamu Kembali",
+            "streamCount": 60229628,
+            "duration": 259333,
+            "contentRating": "none"
+        },
+        {
+            "id": "112PgZaSiXk8Mqem2Krgtq",
+            "name": "Selimut Hati",
+            "streamCount": 64952183,
+            "duration": 279289,
+            "contentRating": "none"
+        },
+        {
+            "id": "3PHc0M7QXIwPUDnZ9dBVCu",
+            "name": "Aku Cinta Kau Dan Dia",
+            "streamCount": 53606080,
+            "duration": 283214,
+            "contentRating": "none"
+        },
+        {
+            "id": "2uBmcHPBZtskiCQhCgmSs0",
+            "name": "Larut",
+            "streamCount": 40188254,
+            "duration": 248035,
+            "contentRating": "none"
+        }
+    ],
+    "albums": [
+        {
+            "id": "2r5H4IksoswrC9CY9ppChP",
+            "name": "Pandawa Lima (Remastered 2023)",
+            "type": "album",
+            "releaseDate": "2023-08-25"
+        },
+        {
+            "id": "4aC7XOwTWhlblZK3HFFq3j",
+            "name": "Terbaik Terbaik (Remastered 2022)",
+            "type": "album",
+            "releaseDate": "2023-05-15"
+        },
+        {
+            "id": "2hwNRtZyqmEcCzV47OUAlN",
+            "name": "The 2000's Greatest",
+            "type": "album",
+            "releaseDate": "2007-03-12"
+        },
+        {
+            "id": "1aYiNBH11asv0vNU653O44",
+            "name": "Pandawa Lima",
+            "type": "album",
+            "releaseDate": "1997-01-25"
+        },
+        {
+            "id": "0QtVlnrFMVFDTFg1NYtDOT",
+            "name": "Terbaik Terbaik",
+            "type": "album",
+            "releaseDate": "1995-08-02"
+        },
+        {
+            "id": "4eEU7HKuOnfbovQM9mISBy",
+            "name": "Format Masa Depan",
+            "type": "album",
+            "releaseDate": "1994-06-16"
+        },
+        {
+            "id": "4Pcz4fmsSgomu0FdbZBT2n",
+            "name": "Dewa 19",
+            "type": "album",
+            "releaseDate": "1993-09-08"
+        }
+    ],
+    "singles": [
+        {
+            "id": "26oBrqXdoiO7afN1QLcEBl",
+            "name": "Madu Tiga",
+            "type": "single",
+            "releaseDate": "2024-08-21"
+        },
+        {
+            "id": "6i0ynLDQ8MAFefJZXkJXRq",
+            "name": "Stone Cold Crazy",
+            "type": "single",
+            "releaseDate": "2024-08-01"
+        },
+        {
+            "id": "6rxaw1gqdBCGQSA7sn8h7K",
+            "name": "Sayap Sayap Patah",
+            "type": "single",
+            "releaseDate": "2024-07-18"
+        },
+        {
+            "id": "1lJJHp5qsDkIiOO1POiX16",
+            "name": "Selimut Hati",
+            "type": "single",
+            "releaseDate": "2024-05-08"
+        },
+        {
+            "id": "0XkUQAXh7Dx7c9f0RlBZSR",
+            "name": "Pupus",
+            "type": "single",
+            "releaseDate": "2024-05-08"
+        },
+        {
+            "id": "10tofKTw3difuu63uwstWj",
+            "name": "Dewi",
+            "type": "single",
+            "releaseDate": "2024-05-08"
+        },
+        {
+            "id": "0RE5dZwYezNpxnE0MOqzkP",
+            "name": "Roman Picisan",
+            "type": "single",
+            "releaseDate": "2024-04-30"
+        },
+        {
+            "id": "17ACrVS7WmOdu8mwnj4765",
+            "name": "Laki-Laki Bukan Pengecut",
+            "type": "single",
+            "releaseDate": "2024-03-26"
+        },
+        {
+            "id": "53iy5uK9O7I2owgznmRS6v",
+            "name": "Suit Suit... He.. He.. Gadis Sexy",
+            "type": "single",
+            "releaseDate": "2023-08-25"
+        },
+        {
+            "id": "2mo5tAob0Z9G7Wq9Mfpx0n",
+            "name": "Immortal Love Song (All Stars)",
+            "type": "single",
+            "releaseDate": "2023-07-28"
+        }
+    ],
+    "popularReleases": [
+        {
+            "id": "2hwNRtZyqmEcCzV47OUAlN",
+            "name": "The 2000's Greatest",
+            "type": "album",
+            "releaseDate": "2007-03-12"
+        },
+        {
+            "id": "4eEU7HKuOnfbovQM9mISBy",
+            "name": "Format Masa Depan",
+            "type": "album",
+            "releaseDate": "1994-06-16"
+        },
+        {
+            "id": "0J5QTb6giV74fwg9PxGUHR",
+            "name": "Risalah Hati",
+            "type": "single",
+            "releaseDate": "2021-07-23"
+        },
+        {
+            "id": "0QtVlnrFMVFDTFg1NYtDOT",
+            "name": "Terbaik Terbaik",
+            "type": "album",
+            "releaseDate": "1995-08-02"
+        },
+        {
+            "id": "1aYiNBH11asv0vNU653O44",
+            "name": "Pandawa Lima",
+            "type": "album",
+            "releaseDate": "1997-01-25"
+        },
+        {
+            "id": "2gajnKEtcWmFQ03Al5qvpF",
+            "name": "Aku Cinta Kau Dan Dia",
+            "type": "single",
+            "releaseDate": "2021-08-04"
+        },
+        {
+            "id": "4Pcz4fmsSgomu0FdbZBT2n",
+            "name": "Dewa 19",
+            "type": "album",
+            "releaseDate": "1993-09-08"
+        },
+        {
+            "id": "2OYUSvc9E6qIzGUs26j0jy",
+            "name": "Sudah",
+            "type": "single",
+            "releaseDate": "2021-09-25"
+        },
+        {
+            "id": "2r5H4IksoswrC9CY9ppChP",
+            "name": "Pandawa Lima (Remastered 2023)",
+            "type": "album",
+            "releaseDate": "2023-08-25"
+        },
+        {
+            "id": "1tuhzRxF6AC6vf4KAVZyo2",
+            "name": "Satu",
+            "type": "single",
+            "releaseDate": "2023-04-06"
+        }
+    ],
+    "latest": {
+        "id": "26oBrqXdoiO7afN1QLcEBl",
+        "name": "Madu Tiga",
+        "type": "single",
+        "releaseDate": "2024-08-21"
+    },
+    "biography": "More commonly known as Dewa (and for a time, Down Beat), Dewa 19 was considered by some to be one of Indonesia's biggest rock acts. Formed in 1986, the band would go through a number of lineup changes -- and the occasional name change, due in part to the original inspiration for the band's moniker being derived from the founder's names -- but they maintained their momentum and by 2008 had released a fair number of albums, nearly ten full-lengths, a pair of compilations, and some live work, and built a fanbase that was formidable, to say the least. Their first album, Dewa 19 (the 19 referring to the ages of the founding members at the time of naming the band), released in 1992, was a huge hit, winning the band Best Newcomers and Most Popular Album at the 1993 BASF Awards. While drummers came and went, along with some other roster changes, Dewa 19 pressed ever forward, releasing Format Masa Depan in 1994, and Terbaik Terbaik in 1997. 1999 would see Dewa 19 close out the decade with a hits compilation, The Best of Dewa 19. As the new century dawned, some new issues -- including alleged drug abuse and copyright disagreements -- popped up, but Dewa managed to overcome these hurdles, and in 2005 Dewa 19 released the live DVD Live in Japan, and a best-of DVD compilation. In 2007 the band issued its ninth studio album, Kerajaan Cinta. ~ Chris True, Rovi",
+    "externalLinks": [
+        {
+            "label": "facebook",
+            "url": "https://facebook.com/dewa19"
+        },
+        {
+            "label": "instagram",
+            "url": "https://instagram.com/officialdewa19/"
+        },
+        {
+            "label": "twitter",
+            "url": "https://twitter.com/de19wa"
+        },
+        {
+            "label": "wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dewa_19"
+        }
+    ],
+    "coverArt": [
+        {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb96bfa9ff288138f3432e0fa4",
+            "height": 640,
+            "width": 640
+        },
+        {
+            "url": "https://i.scdn.co/image/ab6761610000f17896bfa9ff288138f3432e0fa4",
+            "height": 160,
+            "width": 160
+        },
+        {
+            "url": "https://i.scdn.co/image/ab6761610000517496bfa9ff288138f3432e0fa4",
+            "height": 320,
+            "width": 320
+        }
+    ]
+}

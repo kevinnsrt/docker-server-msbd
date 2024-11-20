@@ -1,0 +1,19 @@
+[2024-11-19T08:59:47.069+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-19T08:59:47.093+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: spotify_youtube_data_pipeline.fetch_spotify_data manual__2024-11-19T08:58:01.041517+00:00 [queued]>
+[2024-11-19T08:59:47.108+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: spotify_youtube_data_pipeline.fetch_spotify_data manual__2024-11-19T08:58:01.041517+00:00 [queued]>
+[2024-11-19T08:59:47.110+0000] {taskinstance.py:2866} INFO - Starting attempt 3 of 3
+[2024-11-19T08:59:47.138+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): fetch_spotify_data> on 2024-11-19 08:58:01.041517+00:00
+[2024-11-19T08:59:47.147+0000] {standard_task_runner.py:72} INFO - Started process 395 to run task
+[2024-11-19T08:59:47.152+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'spotify_youtube_data_pipeline', 'fetch_spotify_data', 'manual__2024-11-19T08:58:01.041517+00:00', '--job-id', '48', '--raw', '--subdir', 'DAGS_FOLDER/dag.py', '--cfg-path', '/tmp/tmpq471qkcf']
+[2024-11-19T08:59:47.155+0000] {standard_task_runner.py:105} INFO - Job 48: Subtask fetch_spotify_data
+[2024-11-19T08:59:47.186+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/settings.py:209 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2024-11-19T08:59:47.312+0000] {task_command.py:467} INFO - Running <TaskInstance: spotify_youtube_data_pipeline.fetch_spotify_data manual__2024-11-19T08:58:01.041517+00:00 [running]> on host a65554b7e6d9
+[2024-11-19T08:59:47.896+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='spotify_youtube_data_pipeline' AIRFLOW_CTX_TASK_ID='fetch_spotify_data' AIRFLOW_CTX_EXECUTION_DATE='2024-11-19T08:58:01.041517+00:00' AIRFLOW_CTX_TRY_NUMBER='3' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-11-19T08:58:01.041517+00:00'
+[2024-11-19T08:59:47.898+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-11-19T08:59:51.085+0000] {logging_mixin.py:190} INFO - Spotify data saved to spotify_data.json successfully.
+[2024-11-19T08:59:51.088+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-11-19T08:59:51.104+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-11-19T08:59:51.106+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=spotify_youtube_data_pipeline, task_id=fetch_spotify_data, run_id=manual__2024-11-19T08:58:01.041517+00:00, execution_date=20241119T085801, start_date=20241119T085947, end_date=20241119T085951
+[2024-11-19T08:59:51.150+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-11-19T08:59:51.203+0000] {taskinstance.py:3895} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-11-19T08:59:51.211+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

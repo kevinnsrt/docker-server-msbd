@@ -1,0 +1,22 @@
+[2024-11-19T05:10:31.956+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-19T05:10:31.980+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: spotify_youtube_data_pipeline.save_youtube_data manual__2024-11-19T05:09:57.505971+00:00 [queued]>
+[2024-11-19T05:10:31.997+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: spotify_youtube_data_pipeline.save_youtube_data manual__2024-11-19T05:09:57.505971+00:00 [queued]>
+[2024-11-19T05:10:31.998+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 1
+[2024-11-19T05:10:32.034+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): save_youtube_data> on 2024-11-19 05:09:57.505971+00:00
+[2024-11-19T05:10:32.047+0000] {standard_task_runner.py:72} INFO - Started process 164 to run task
+[2024-11-19T05:10:32.052+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'spotify_youtube_data_pipeline', 'save_youtube_data', 'manual__2024-11-19T05:09:57.505971+00:00', '--job-id', '40', '--raw', '--subdir', 'DAGS_FOLDER/dag.py', '--cfg-path', '/tmp/tmpy_8tf39l']
+[2024-11-19T05:10:32.056+0000] {standard_task_runner.py:105} INFO - Job 40: Subtask save_youtube_data
+[2024-11-19T05:10:32.088+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/settings.py:209 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2024-11-19T05:10:32.159+0000] {task_command.py:467} INFO - Running <TaskInstance: spotify_youtube_data_pipeline.save_youtube_data manual__2024-11-19T05:09:57.505971+00:00 [running]> on host a65554b7e6d9
+[2024-11-19T05:10:32.355+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='spotify_youtube_data_pipeline' AIRFLOW_CTX_TASK_ID='save_youtube_data' AIRFLOW_CTX_EXECUTION_DATE='2024-11-19T05:09:57.505971+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-11-19T05:09:57.505971+00:00'
+[2024-11-19T05:10:32.357+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-11-19T05:10:32.512+0000] {logging_mixin.py:190} INFO - Successfully connected to MongoDB.
+[2024-11-19T05:10:32.536+0000] {logging_mixin.py:190} INFO - Existing data found, moving to historical collection...
+[2024-11-19T05:10:32.550+0000] {logging_mixin.py:190} INFO - Existing data moved to historical collection.
+[2024-11-19T05:10:32.562+0000] {logging_mixin.py:190} INFO - New data for channel statistics successfully saved to MongoDB.
+[2024-11-19T05:10:32.564+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-11-19T05:10:32.579+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-11-19T05:10:32.582+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=spotify_youtube_data_pipeline, task_id=save_youtube_data, run_id=manual__2024-11-19T05:09:57.505971+00:00, execution_date=20241119T050957, start_date=20241119T051031, end_date=20241119T051032
+[2024-11-19T05:10:32.630+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-11-19T05:10:32.664+0000] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-11-19T05:10:32.666+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

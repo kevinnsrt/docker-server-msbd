@@ -1,0 +1,44 @@
+[2024-11-20T17:09:50.426+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-20T17:09:50.436+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: bernadya.save_youtube_data scheduled__2024-11-20T12:00:00+00:00 [queued]>
+[2024-11-20T17:09:50.445+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: bernadya.save_youtube_data scheduled__2024-11-20T12:00:00+00:00 [queued]>
+[2024-11-20T17:09:50.446+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 1
+[2024-11-20T17:09:50.460+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): save_youtube_data> on 2024-11-20 12:00:00+00:00
+[2024-11-20T17:09:50.464+0000] {standard_task_runner.py:72} INFO - Started process 125 to run task
+[2024-11-20T17:09:50.468+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'bernadya', 'save_youtube_data', 'scheduled__2024-11-20T12:00:00+00:00', '--job-id', '147', '--raw', '--subdir', 'DAGS_FOLDER/bernadya.py', '--cfg-path', '/tmp/tmpl9y4z71p']
+[2024-11-20T17:09:50.470+0000] {standard_task_runner.py:105} INFO - Job 147: Subtask save_youtube_data
+[2024-11-20T17:09:50.487+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/settings.py:209 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2024-11-20T17:09:50.515+0000] {task_command.py:467} INFO - Running <TaskInstance: bernadya.save_youtube_data scheduled__2024-11-20T12:00:00+00:00 [running]> on host 6aba41e3ae6f
+[2024-11-20T17:09:50.516+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/settings.py:470 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2024-11-20T17:09:50.582+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='bernadya' AIRFLOW_CTX_TASK_ID='save_youtube_data' AIRFLOW_CTX_EXECUTION_DATE='2024-11-20T12:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-11-20T12:00:00+00:00'
+[2024-11-20T17:09:50.583+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-11-20T17:09:50.714+0000] {logging_mixin.py:190} INFO - Successfully connected to MongoDB.
+[2024-11-20T17:09:50.756+0000] {logging_mixin.py:190} INFO - Existing data found, moving to historical collection...
+[2024-11-20T17:09:50.772+0000] {logging_mixin.py:190} INFO - Existing data moved to historical collection.
+[2024-11-20T17:09:50.780+0000] {logging_mixin.py:190} INFO - New data for channel statistics successfully saved to MongoDB.
+[2024-11-20T17:09:50.781+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-11-20T17:09:50.788+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-11-20T17:09:50.788+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=bernadya, task_id=save_youtube_data, run_id=scheduled__2024-11-20T12:00:00+00:00, execution_date=20241120T120000, start_date=20241120T170950, end_date=20241120T170950
+[2024-11-20T17:09:50.802+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-11-20T17:09:50.814+0000] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-11-20T17:09:50.814+0000] {local_task_job_runner.py:245} INFO - ::endgroup::
+[2024-11-20T17:17:17.451+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-20T17:17:17.463+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: bernadya.save_youtube_data scheduled__2024-11-20T12:00:00+00:00 [queued]>
+[2024-11-20T17:17:17.469+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: bernadya.save_youtube_data scheduled__2024-11-20T12:00:00+00:00 [queued]>
+[2024-11-20T17:17:17.470+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 1
+[2024-11-20T17:17:17.483+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): save_youtube_data> on 2024-11-20 12:00:00+00:00
+[2024-11-20T17:17:17.489+0000] {standard_task_runner.py:72} INFO - Started process 496 to run task
+[2024-11-20T17:17:17.491+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'bernadya', 'save_youtube_data', 'scheduled__2024-11-20T12:00:00+00:00', '--job-id', '169', '--raw', '--subdir', 'DAGS_FOLDER/bernadya.py', '--cfg-path', '/tmp/tmpacme6vj2']
+[2024-11-20T17:17:17.493+0000] {standard_task_runner.py:105} INFO - Job 169: Subtask save_youtube_data
+[2024-11-20T17:17:17.508+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/settings.py:209 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2024-11-20T17:17:17.534+0000] {task_command.py:467} INFO - Running <TaskInstance: bernadya.save_youtube_data scheduled__2024-11-20T12:00:00+00:00 [running]> on host 6aba41e3ae6f
+[2024-11-20T17:17:17.535+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/settings.py:470 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2024-11-20T17:17:17.594+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='bernadya' AIRFLOW_CTX_TASK_ID='save_youtube_data' AIRFLOW_CTX_EXECUTION_DATE='2024-11-20T12:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-11-20T12:00:00+00:00'
+[2024-11-20T17:17:17.594+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-11-20T17:17:17.636+0000] {logging_mixin.py:190} INFO - Successfully connected to MongoDB.
+[2024-11-20T17:17:17.652+0000] {logging_mixin.py:190} INFO - New data for channel statistics successfully saved to MongoDB.
+[2024-11-20T17:17:17.652+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-11-20T17:17:17.657+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-11-20T17:17:17.658+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=bernadya, task_id=save_youtube_data, run_id=scheduled__2024-11-20T12:00:00+00:00, execution_date=20241120T120000, start_date=20241120T171717, end_date=20241120T171717
+[2024-11-20T17:17:17.705+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-11-20T17:17:17.717+0000] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-11-20T17:17:17.718+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

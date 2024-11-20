@@ -1,0 +1,295 @@
+{
+    "id": "0du5cEVh5yTK9QJze8zA0C",
+    "name": "Bruno Mars",
+    "verified": true,
+    "followers": 62348475,
+    "monthlyListeners": 134093705,
+    "worldRank": 1,
+    "topCities": [
+        {
+            "country": "ID",
+            "city": "Jakarta",
+            "numberOfListeners": 6336205
+        },
+        {
+            "country": "BR",
+            "city": "S\u00e3o Paulo",
+            "numberOfListeners": 2162827
+        },
+        {
+            "country": "PH",
+            "city": "Quezon City",
+            "numberOfListeners": 1792578
+        },
+        {
+            "country": "CL",
+            "city": "Santiago",
+            "numberOfListeners": 1496625
+        },
+        {
+            "country": "ID",
+            "city": "Bandung",
+            "numberOfListeners": 1481656
+        }
+    ],
+    "topTracks": [
+        {
+            "id": "2plbrEY59IikOBgBGLjaoe",
+            "name": "Die With A Smile",
+            "streamCount": 999850173,
+            "duration": 251667,
+            "contentRating": "none"
+        },
+        {
+            "id": "5vNRhkKd0yEAg8suGBpjeY",
+            "name": "APT.",
+            "streamCount": 385562862,
+            "duration": 169917,
+            "contentRating": "none"
+        },
+        {
+            "id": "3w3y8KPTfNeOKPiqUTakBh",
+            "name": "Locked out of Heaven",
+            "streamCount": 2296774858,
+            "duration": 233478,
+            "contentRating": "none"
+        },
+        {
+            "id": "47Slg6LuqLaX0VodpSCvPt",
+            "name": "Just the Way You Are",
+            "streamCount": 2371729896,
+            "duration": 220734,
+            "contentRating": "none"
+        },
+        {
+            "id": "0KKkJNfGyhkQ5aFogxQAPU",
+            "name": "That's What I Like",
+            "streamCount": 2310585786,
+            "duration": 206693,
+            "contentRating": "none"
+        },
+        {
+            "id": "0nJW01T7XtvILxQgC5J7Wh",
+            "name": "When I Was Your Man",
+            "streamCount": 2377776827,
+            "duration": 213826,
+            "contentRating": "none"
+        },
+        {
+            "id": "0M3HkE321xpCbCYqVKzr1q",
+            "name": "It Will Rain",
+            "streamCount": 1022205055,
+            "duration": 257720,
+            "contentRating": "none"
+        },
+        {
+            "id": "4lLtanYk6tkMvooU0tWzG8",
+            "name": "Grenade",
+            "streamCount": 1450028092,
+            "duration": 222091,
+            "contentRating": "none"
+        },
+        {
+            "id": "1wVuPmvt6AWvTL5W2GJnzZ",
+            "name": "Talking to the Moon",
+            "streamCount": 1531098530,
+            "duration": 217866,
+            "contentRating": "none"
+        },
+        {
+            "id": "55h7vJchibLdUkxdlX3fK7",
+            "name": "Treasure",
+            "streamCount": 1109713002,
+            "duration": 178560,
+            "contentRating": "explicit"
+        }
+    ],
+    "albums": [
+        {
+            "id": "4VZ7jhV0wHpoNPCB7Vmiml",
+            "name": "An Evening With Silk Sonic",
+            "type": "album",
+            "releaseDate": "2021-11-12"
+        },
+        {
+            "id": "4PgleR09JVnm3zY1fW3XBA",
+            "name": "24K Magic",
+            "type": "album",
+            "releaseDate": "2016-11-17"
+        },
+        {
+            "id": "58ufpQsJ1DS5kq4hhzQDiI",
+            "name": "Unorthodox Jukebox",
+            "type": "album",
+            "releaseDate": "2012-12-07"
+        },
+        {
+            "id": "6J84szYCnMfzEcvIcfWMFL",
+            "name": "Doo-Wops & Hooligans",
+            "type": "album",
+            "releaseDate": "2010-05-11"
+        }
+    ],
+    "singles": [
+        {
+            "id": "2IYQwwgxgOIn7t3iF6ufFD",
+            "name": "APT.",
+            "type": "single",
+            "releaseDate": "2024-10-18"
+        },
+        {
+            "id": "2vA3dDRHJtEeThXAlf1L8z",
+            "name": "Die With A Smile (Live in Las Vegas)",
+            "type": "single",
+            "releaseDate": "2024-10-17"
+        },
+        {
+            "id": "5eLr5u0UcnXjtNZgbnsoYS",
+            "name": "Die With A Smile (Acoustic)",
+            "type": "single",
+            "releaseDate": "2024-10-17"
+        },
+        {
+            "id": "29uwnLOApt6HvRw3Ll83vG",
+            "name": "Die With A Smile",
+            "type": "single",
+            "releaseDate": "2024-10-17"
+        },
+        {
+            "id": "3BQuktwdgPu30k6QSUslCr",
+            "name": "Die With A Smile (Main + Instrumental)",
+            "type": "single",
+            "releaseDate": "2024-10-16"
+        },
+        {
+            "id": "4rRB9bAIwawVcrdLXuq9Qu",
+            "name": "Leave The Door Open (Live)",
+            "type": "single",
+            "releaseDate": "2021-04-02"
+        },
+        {
+            "id": "4uoEruXjt0APvHaSqrwqPH",
+            "name": "BLOW (with Chris Stapleton & Bruno Mars)",
+            "type": "single",
+            "releaseDate": "2019-07-05"
+        },
+        {
+            "id": "5a4sJJ3qjn6hqRsvm0Veso",
+            "name": "Please Me",
+            "type": "single",
+            "releaseDate": "2019-02-15"
+        },
+        {
+            "id": "7mkyc2BUahNfo0orKzqNGB",
+            "name": "Wake Up in the Sky",
+            "type": "single",
+            "releaseDate": "2018-09-14"
+        },
+        {
+            "id": "5AVEtKtguEa8sqYhSj3zFW",
+            "name": "Finesse (Remix) [feat. Cardi B]",
+            "type": "single",
+            "releaseDate": "2018-03-23"
+        }
+    ],
+    "popularReleases": [
+        {
+            "id": "2IYQwwgxgOIn7t3iF6ufFD",
+            "name": "APT.",
+            "type": "single",
+            "releaseDate": "2024-10-18"
+        },
+        {
+            "id": "58ufpQsJ1DS5kq4hhzQDiI",
+            "name": "Unorthodox Jukebox",
+            "type": "album",
+            "releaseDate": "2012-12-07"
+        },
+        {
+            "id": "4PgleR09JVnm3zY1fW3XBA",
+            "name": "24K Magic",
+            "type": "album",
+            "releaseDate": "2016-11-17"
+        },
+        {
+            "id": "6J84szYCnMfzEcvIcfWMFL",
+            "name": "Doo-Wops & Hooligans",
+            "type": "album",
+            "releaseDate": "2010-05-11"
+        },
+        {
+            "id": "4A0vJtV9ok7vmr9ursSKj8",
+            "name": "It Will Rain",
+            "type": "single",
+            "releaseDate": "2011-09-28"
+        },
+        {
+            "id": "4VZ7jhV0wHpoNPCB7Vmiml",
+            "name": "An Evening With Silk Sonic",
+            "type": "album",
+            "releaseDate": "2021-11-12"
+        },
+        {
+            "id": "5a4sJJ3qjn6hqRsvm0Veso",
+            "name": "Please Me",
+            "type": "single",
+            "releaseDate": "2019-02-15"
+        },
+        {
+            "id": "7mkyc2BUahNfo0orKzqNGB",
+            "name": "Wake Up in the Sky",
+            "type": "single",
+            "releaseDate": "2018-09-14"
+        },
+        {
+            "id": "54DNHFsfCa7nlQFWXMg7y3",
+            "name": "The Grenade Sessions",
+            "type": "single",
+            "releaseDate": "2011-02-08"
+        },
+        {
+            "id": "4uoEruXjt0APvHaSqrwqPH",
+            "name": "BLOW (with Chris Stapleton & Bruno Mars)",
+            "type": "single",
+            "releaseDate": "2019-07-05"
+        }
+    ],
+    "latest": {
+        "id": "2IYQwwgxgOIn7t3iF6ufFD",
+        "name": "APT.",
+        "type": "single",
+        "releaseDate": "2024-10-18"
+    },
+    "biography": "15x time GRAMMY Award winner Bruno Mars is one of the best-selling artists of all time. DOO-WOPS &amp; HOOLIGANS marked the landmark debut of a remarkable new artist. The album \u2013 which peaked at #3 on the Billboard 200 \u2013 has gone on to achieve global album equivalent sales of 15.5 million. Now boasting more than 7.8 billion total streams, DOO-WOPS &amp; HOOLIGANS is certified RIAA 6X platinum, the longest-charting debut album on Top 200 and #4 longest-running of all time. \nHis most recent album, the critically acclaimed, 3x platinum-certified 24K MAGIC, made an impressive debut atop Billboard\u2019s \u201cTop Digital Albums\u201d and \u201cTop R&amp;B/Hip-Hop Albums\u201d charts upon its 2016 arrival. The album includes the 7x platinum-certified, #1 single, \u201cThat\u2019s What I Like\u201d \u2013 Mars\u2019 seventh \u201cHot 100\u201d chart-topper and first-ever #1 on the \u201cHot R&amp;B Songs\u201d chart, affirming him as one of the few artists to have written and produced each of his #1 hits as well as to have a #1 song on the \u201cHot 100\u201d from each of his first three studio albums. \nAmong his truly countless accolades, Mars is a 4x Guinness World Record holder, with his milestone 2015 NFL Super Bowl Halftime Show drawing a record-breaking total viewership of over 115.3 million. Mars also holds the world record as the \u201cFirst Male Artist to Achieve Three 10 Million Selling Singles\u201d, while 2016\u2019s 2x GRAMMY\u00ae Award-winning, worldwide #1 collaboration with Mark Ronson, \u201cUptown Funk,\u201d made history for the \u201cMost Weeks at #1 on the U.S. Digital Song Sales\u201d chart.",
+    "externalLinks": [
+        {
+            "label": "facebook",
+            "url": "https://facebook.com/brunomars"
+        },
+        {
+            "label": "instagram",
+            "url": "https://instagram.com/brunomars"
+        },
+        {
+            "label": "twitter",
+            "url": "https://twitter.com/brunomars"
+        }
+    ],
+    "coverArt": [
+        {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd",
+            "height": 640,
+            "width": 640
+        },
+        {
+            "url": "https://i.scdn.co/image/ab6761610000f178c36dd9eb55fb0db4911f25dd",
+            "height": 160,
+            "width": 160
+        },
+        {
+            "url": "https://i.scdn.co/image/ab67616100005174c36dd9eb55fb0db4911f25dd",
+            "height": 320,
+            "width": 320
+        }
+    ]
+}

@@ -1,0 +1,335 @@
+{
+    "id": "6XyY86QOPPrYVGvF9ch6wz",
+    "name": "Linkin Park",
+    "verified": true,
+    "followers": 27633567,
+    "monthlyListeners": 55696878,
+    "worldRank": 37,
+    "topCities": [
+        {
+            "country": "BR",
+            "city": "S\u00e3o Paulo",
+            "numberOfListeners": 1166214
+        },
+        {
+            "country": "ID",
+            "city": "Jakarta",
+            "numberOfListeners": 908436
+        },
+        {
+            "country": "FR",
+            "city": "Paris",
+            "numberOfListeners": 710219
+        },
+        {
+            "country": "DE",
+            "city": "Hamburg",
+            "numberOfListeners": 632943
+        },
+        {
+            "country": "GB",
+            "city": "London",
+            "numberOfListeners": 625011
+        }
+    ],
+    "topTracks": [
+        {
+            "id": "1EDPVGbyPKJPeGqATwXZvN",
+            "name": "The Emptiness Machine",
+            "streamCount": 278689005,
+            "duration": 190427,
+            "contentRating": "explicit"
+        },
+        {
+            "id": "2HBBM75Xv3o2Mqdyh1NcM0",
+            "name": "Heavy Is the Crown",
+            "streamCount": 126719698,
+            "duration": 167012,
+            "contentRating": "none"
+        },
+        {
+            "id": "60a0Rd6pjrkxjPbaKzXjfq",
+            "name": "In the End",
+            "streamCount": 2307047503,
+            "duration": 216880,
+            "contentRating": "none"
+        },
+        {
+            "id": "2nLtzopw4rPReszdYBJU6h",
+            "name": "Numb",
+            "streamCount": 1974715706,
+            "duration": 187520,
+            "contentRating": "none"
+        },
+        {
+            "id": "4Yf5bqU3NK4kNOypcrLYwU",
+            "name": "Faint",
+            "streamCount": 836414629,
+            "duration": 162106,
+            "contentRating": "none"
+        },
+        {
+            "id": "3k4gjmYNJugQRlh2aounZ9",
+            "name": "Over Each Other",
+            "streamCount": 31219862,
+            "duration": 170445,
+            "contentRating": "none"
+        },
+        {
+            "id": "3K4HG9evC7dg3N0R9cYqk4",
+            "name": "One Step Closer",
+            "streamCount": 818973371,
+            "duration": 157333,
+            "contentRating": "none"
+        },
+        {
+            "id": "6i5qhmmF9UNUBRyrPSGn4m",
+            "name": "Two Faced",
+            "streamCount": 16224413,
+            "duration": 183584,
+            "contentRating": "none"
+        },
+        {
+            "id": "18lR4BzEs7e3qzc0KVkTpU",
+            "name": "What I've Done",
+            "streamCount": 971495464,
+            "duration": 205226,
+            "contentRating": "none"
+        },
+        {
+            "id": "0UFDKFqW2oGspYeYqo9wjA",
+            "name": "Bleed It Out",
+            "streamCount": 685646854,
+            "duration": 164426,
+            "contentRating": "explicit"
+        }
+    ],
+    "albums": [
+        {
+            "id": "4R6FV9NSzhPihHR0h4pI93",
+            "name": "From Zero",
+            "type": "album",
+            "releaseDate": "2024-11-15"
+        },
+        {
+            "id": "494aUGKXMH5ruXtR3O1a3H",
+            "name": "Papercuts: Instrumentals",
+            "type": "album",
+            "releaseDate": "2024-06-28"
+        },
+        {
+            "id": "1X472EvsSqH09RyrqbtyXU",
+            "name": "Papercuts",
+            "type": "album",
+            "releaseDate": "2024-04-12"
+        },
+        {
+            "id": "3Q9wXhEAX7NYCPP0hxIuDz",
+            "name": "Meteora 20th Anniversary Edition",
+            "type": "album",
+            "releaseDate": "2023-04-07"
+        },
+        {
+            "id": "28DUZ0itKISf2sr6hlseMy",
+            "name": "Hybrid Theory (20th Anniversary Edition)",
+            "type": "album",
+            "releaseDate": "2020-10-09"
+        },
+        {
+            "id": "0zcNtUZ2oEpRmiDuWBFvcX",
+            "name": "One More Light Live",
+            "type": "album",
+            "releaseDate": "2017-12-15"
+        },
+        {
+            "id": "5Eevxp2BCbWq25ZdiXRwYd",
+            "name": "One More Light",
+            "type": "album",
+            "releaseDate": "2017-05-19"
+        },
+        {
+            "id": "6hU9JCoqq4GjYq86dQ1o9b",
+            "name": "The Hunting Party: Acapellas + Instrumentals",
+            "type": "album",
+            "releaseDate": "2014-06-09"
+        },
+        {
+            "id": "3XB2yloP7l00tEUmaODtVi",
+            "name": "The Hunting Party",
+            "type": "album",
+            "releaseDate": "2014-06-09"
+        },
+        {
+            "id": "2FUsvD1bw53HGOjAg56vRD",
+            "name": "RECHARGED",
+            "type": "album",
+            "releaseDate": "2013-10-25"
+        }
+    ],
+    "singles": [
+        {
+            "id": "7bYai93piRObiZD6utMG8Y",
+            "name": "QWERTY (Live in Tokyo, 2006)",
+            "type": "single",
+            "releaseDate": "2024-04-26"
+        },
+        {
+            "id": "2JGoWZYDsksSiHcRqbGa3o",
+            "name": "Friendly Fire: A Cappella + Instrumental",
+            "type": "single",
+            "releaseDate": "2024-03-29"
+        },
+        {
+            "id": "601IEigQO3enlyrbn4SpNM",
+            "name": "Friendly Fire",
+            "type": "single",
+            "releaseDate": "2024-02-23"
+        },
+        {
+            "id": "0CPTcgnt3VIejOtwDPhaQ0",
+            "name": "Evolution Of Mike Shinoda",
+            "type": "ep",
+            "releaseDate": "2023-10-02"
+        },
+        {
+            "id": "30LrTt6t4su1DMqI5dTjyv",
+            "name": "Lost (PLZ Tethered Version)",
+            "type": "single",
+            "releaseDate": "2023-04-21"
+        },
+        {
+            "id": "7bN4OM5mtWq0UrAxdN6qMC",
+            "name": "Lost",
+            "type": "single",
+            "releaseDate": "2023-02-10"
+        },
+        {
+            "id": "0kJJubTbpBWH9dwHmRl4qR",
+            "name": "One Step Closer (100 gecs Reanimation)",
+            "type": "single",
+            "releaseDate": "2021-01-08"
+        },
+        {
+            "id": "51WStYbzUKG6O0XZd5Ta9x",
+            "name": "One More Light (Steve Aoki Chester Forever Remix)",
+            "type": "single",
+            "releaseDate": "2017-10-25"
+        },
+        {
+            "id": "2IUg8KVfBvRnkLQVJ9FEQ1",
+            "name": "Darker Than The Light That Never Bleeds (Chester Forever Steve Aoki Remix)",
+            "type": "single",
+            "releaseDate": "2017-09-08"
+        },
+        {
+            "id": "7yCCAkxJFamv33CoSjxpJX",
+            "name": "Heavy (feat. Kiiara)",
+            "type": "single",
+            "releaseDate": "2017-02-16"
+        }
+    ],
+    "popularReleases": [
+        {
+            "id": "6hPkbAV3ZXpGZBGUvL6jVM",
+            "name": "Hybrid Theory (Bonus Edition)",
+            "type": "album",
+            "releaseDate": "2000"
+        },
+        {
+            "id": "4R6FV9NSzhPihHR0h4pI93",
+            "name": "From Zero",
+            "type": "album",
+            "releaseDate": "2024-11-15"
+        },
+        {
+            "id": "0f7R0jf0pcTb6K6IVVPcMD",
+            "name": "Meteora (Bonus Edition)",
+            "type": "album",
+            "releaseDate": "2003-09-16"
+        },
+        {
+            "id": "4XHIjbhjRmqWlosjj5rqSI",
+            "name": "LIVING THINGS",
+            "type": "album",
+            "releaseDate": "2012-06-19"
+        },
+        {
+            "id": "5Eevxp2BCbWq25ZdiXRwYd",
+            "name": "One More Light",
+            "type": "album",
+            "releaseDate": "2017-05-19"
+        },
+        {
+            "id": "3Q9wXhEAX7NYCPP0hxIuDz",
+            "name": "Meteora 20th Anniversary Edition",
+            "type": "album",
+            "releaseDate": "2023-04-07"
+        },
+        {
+            "id": "4lhyg7YGQagE8FT8cZBqyw",
+            "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
+            "type": "single",
+            "releaseDate": "2004-11-30"
+        },
+        {
+            "id": "5uvXx5ZQswNRFCdHR521YZ",
+            "name": "A Thousand Suns",
+            "type": "album",
+            "releaseDate": "2010-09-08"
+        },
+        {
+            "id": "3XB2yloP7l00tEUmaODtVi",
+            "name": "The Hunting Party",
+            "type": "album",
+            "releaseDate": "2014-06-09"
+        },
+        {
+            "id": "1X472EvsSqH09RyrqbtyXU",
+            "name": "Papercuts",
+            "type": "album",
+            "releaseDate": "2024-04-12"
+        }
+    ],
+    "latest": {
+        "id": "4R6FV9NSzhPihHR0h4pI93",
+        "name": "From Zero",
+        "type": "album",
+        "releaseDate": "2024-11-15"
+    },
+    "biography": "LINKIN PARK emerged as an innovative musical force and are one of the best-selling artists of the last twenty years. Their RIAA Diamond-certified full-length debut, <a href=\"spotify:album:2pKw6GERJVAD61449B1EEM\" data-name=\"Hybrid Theory\">Hybrid Theory</a>, stands out as the \u201cbest selling debut of the 21st century,\u201d while landmark sophomore album Meteora bowed at #1 on the Billboard Top 200 before going 8X-Platinum in the U.S. The band\u2019s worldwide sales across the entire catalog eclipses 100 million, and among numerous accolades and honors, they have garnered 2 GRAMMY\u00ae Awards, 5 American Music Awards, 4 MTV VMA Awards, 10 MTV Europe Music Awards and 3 World Music Awards. Selling out stadiums worldwide, they\u2019ve headlined the largest festivals globally and also remain the first and only Western rock band to play a five-stadium tour in China. 2017\u2019s <a href=\"spotify:album:5Eevxp2BCbWq25ZdiXRwYd\" data-name=\"One More Light\">One More Light</a> marked their fifth #1 debut on the Billboard 200. In 2020, the band celebrated their groundbreaking debut album, <a href=\"spotify:album:2pKw6GERJVAD61449B1EEM\" data-name=\"Hybrid Theory\">Hybrid Theory</a>, by releasing a comprehensive 20th anniversary edition super deluxe box set which features their RIAA Diamond-certified single \u201cIn The End.\u201d In 2023, the band released <a href=\"spotify:album:3Q9wXhEAX7NYCPP0hxIuDz\" data-name=\"Meteora 20th Anniversary Edition\">Meteora 20th Anniversary Edition</a>, which topped the charts and featured the newly-uncovered song \u201cLost.\u201d 2024 marked the release of their first greatest hits package <a href=\"spotify:album:1X472EvsSqH09RyrqbtyXU\" data-name=\"Papercuts\">Papercuts</a>, featuring vault track \u201cFriendly Fire\u201d that similarly topped both the Alternative and Rock charts. Today, LINKIN PARK\u2019s imprint on music and culture continues to expand and magnify.",
+    "externalLinks": [
+        {
+            "label": "facebook",
+            "url": "https://facebook.com/linkinpark"
+        },
+        {
+            "label": "instagram",
+            "url": "https://instagram.com/linkinpark"
+        },
+        {
+            "label": "twitter",
+            "url": "https://twitter.com/linkinpark"
+        },
+        {
+            "label": "wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Linkin_Park"
+        }
+    ],
+    "coverArt": [
+        {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebc7e6bd9e65eab62a53355576",
+            "height": 640,
+            "width": 640
+        },
+        {
+            "url": "https://i.scdn.co/image/ab6761610000f178c7e6bd9e65eab62a53355576",
+            "height": 160,
+            "width": 160
+        },
+        {
+            "url": "https://i.scdn.co/image/ab67616100005174c7e6bd9e65eab62a53355576",
+            "height": 320,
+            "width": 320
+        }
+    ]
+}
