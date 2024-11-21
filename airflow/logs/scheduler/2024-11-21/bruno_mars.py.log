@@ -866,3 +866,59 @@
 [2024-11-21T06:30:20.911+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:30:20.910+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2024-11-21T06:30:20.959+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:30:20.959+0000] {dag.py:4180} INFO - Setting next_dagrun for bruno_mars to 2024-11-21 00:00:00+00:00, run_after=2024-11-21 12:00:00+00:00
 [2024-11-21T06:30:21.002+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bruno_mars.py took 0.589 seconds
+[2024-11-21T06:30:51.238+0000] {processor.py:186} INFO - Started process (PID=107) to work on /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:30:51.240+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bruno_mars.py for tasks to queue
+[2024-11-21T06:30:51.245+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:30:51.244+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:30:51.697+0000] {processor.py:925} INFO - DAG(s) 'bruno_mars' retrieved from /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:30:51.743+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:30:51.743+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-21T06:30:51.792+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:30:51.792+0000] {dag.py:4180} INFO - Setting next_dagrun for bruno_mars to 2024-11-21 00:00:00+00:00, run_after=2024-11-21 12:00:00+00:00
+[2024-11-21T06:30:51.833+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bruno_mars.py took 0.607 seconds
+[2024-11-21T06:31:22.457+0000] {processor.py:186} INFO - Started process (PID=111) to work on /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:31:22.459+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bruno_mars.py for tasks to queue
+[2024-11-21T06:31:22.463+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:31:22.462+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:31:22.863+0000] {processor.py:925} INFO - DAG(s) 'bruno_mars' retrieved from /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:31:22.907+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:31:22.907+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-21T06:31:22.953+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:31:22.953+0000] {dag.py:4180} INFO - Setting next_dagrun for bruno_mars to 2024-11-21 00:00:00+00:00, run_after=2024-11-21 12:00:00+00:00
+[2024-11-21T06:31:22.995+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bruno_mars.py took 0.551 seconds
+[2024-11-21T06:31:54.075+0000] {processor.py:186} INFO - Started process (PID=115) to work on /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:31:54.078+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bruno_mars.py for tasks to queue
+[2024-11-21T06:31:54.085+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:31:54.083+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:31:54.627+0000] {processor.py:925} INFO - DAG(s) 'bruno_mars' retrieved from /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:31:54.673+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:31:54.673+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-21T06:31:54.726+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:31:54.725+0000] {dag.py:4180} INFO - Setting next_dagrun for bruno_mars to 2024-11-21 00:00:00+00:00, run_after=2024-11-21 12:00:00+00:00
+[2024-11-21T06:31:54.774+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bruno_mars.py took 0.716 seconds
+[2024-11-21T06:32:25.328+0000] {processor.py:186} INFO - Started process (PID=119) to work on /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:32:25.330+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bruno_mars.py for tasks to queue
+[2024-11-21T06:32:25.336+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:32:25.335+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:32:25.783+0000] {processor.py:925} INFO - DAG(s) 'bruno_mars' retrieved from /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:32:25.830+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:32:25.830+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-21T06:32:25.905+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:32:25.905+0000] {dag.py:4180} INFO - Setting next_dagrun for bruno_mars to 2024-11-21 00:00:00+00:00, run_after=2024-11-21 12:00:00+00:00
+[2024-11-21T06:32:25.949+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bruno_mars.py took 0.633 seconds
+[2024-11-21T06:32:56.343+0000] {processor.py:186} INFO - Started process (PID=123) to work on /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:32:56.345+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bruno_mars.py for tasks to queue
+[2024-11-21T06:32:56.350+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:32:56.349+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:32:56.804+0000] {processor.py:925} INFO - DAG(s) 'bruno_mars' retrieved from /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:32:56.853+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:32:56.853+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-21T06:32:56.905+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:32:56.905+0000] {dag.py:4180} INFO - Setting next_dagrun for bruno_mars to 2024-11-21 00:00:00+00:00, run_after=2024-11-21 12:00:00+00:00
+[2024-11-21T06:32:56.959+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bruno_mars.py took 0.628 seconds
+[2024-11-21T06:33:27.285+0000] {processor.py:186} INFO - Started process (PID=127) to work on /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:33:27.287+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bruno_mars.py for tasks to queue
+[2024-11-21T06:33:27.292+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:33:27.291+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:33:27.701+0000] {processor.py:925} INFO - DAG(s) 'bruno_mars' retrieved from /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:33:27.750+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:33:27.749+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-21T06:33:27.794+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:33:27.794+0000] {dag.py:4180} INFO - Setting next_dagrun for bruno_mars to 2024-11-21 00:00:00+00:00, run_after=2024-11-21 12:00:00+00:00
+[2024-11-21T06:33:27.840+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bruno_mars.py took 0.566 seconds
+[2024-11-21T06:33:58.652+0000] {processor.py:186} INFO - Started process (PID=131) to work on /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:33:58.654+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bruno_mars.py for tasks to queue
+[2024-11-21T06:33:58.661+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:33:58.660+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:33:59.104+0000] {processor.py:925} INFO - DAG(s) 'bruno_mars' retrieved from /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:33:59.156+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:33:59.155+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-21T06:33:59.209+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:33:59.208+0000] {dag.py:4180} INFO - Setting next_dagrun for bruno_mars to 2024-11-21 00:00:00+00:00, run_after=2024-11-21 12:00:00+00:00
+[2024-11-21T06:33:59.265+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bruno_mars.py took 0.625 seconds
+[2024-11-21T06:34:29.587+0000] {processor.py:186} INFO - Started process (PID=135) to work on /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:34:29.589+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bruno_mars.py for tasks to queue
+[2024-11-21T06:34:29.594+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:34:29.594+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:34:29.991+0000] {processor.py:925} INFO - DAG(s) 'bruno_mars' retrieved from /opt/airflow/dags/bruno_mars.py
+[2024-11-21T06:34:30.034+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:34:30.034+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-21T06:34:30.079+0000] {logging_mixin.py:190} INFO - [2024-11-21T06:34:30.078+0000] {dag.py:4180} INFO - Setting next_dagrun for bruno_mars to 2024-11-21 00:00:00+00:00, run_after=2024-11-21 12:00:00+00:00
+[2024-11-21T06:34:30.123+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bruno_mars.py took 0.547 seconds
