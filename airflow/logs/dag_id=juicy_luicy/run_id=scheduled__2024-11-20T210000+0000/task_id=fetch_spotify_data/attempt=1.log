@@ -1,0 +1,20 @@
+[2024-11-21T05:24:26.723+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-21T05:24:26.750+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: juicy_luicy.fetch_spotify_data scheduled__2024-11-20T21:00:00+00:00 [queued]>
+[2024-11-21T05:24:26.766+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: juicy_luicy.fetch_spotify_data scheduled__2024-11-20T21:00:00+00:00 [queued]>
+[2024-11-21T05:24:26.768+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 1
+[2024-11-21T05:24:26.798+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): fetch_spotify_data> on 2024-11-20 21:00:00+00:00
+[2024-11-21T05:24:26.808+0000] {standard_task_runner.py:72} INFO - Started process 163 to run task
+[2024-11-21T05:24:26.813+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'juicy_luicy', 'fetch_spotify_data', 'scheduled__2024-11-20T21:00:00+00:00', '--job-id', '249', '--raw', '--subdir', 'DAGS_FOLDER/juicy_luicy.py', '--cfg-path', '/tmp/tmpu2qgaolx']
+[2024-11-21T05:24:26.818+0000] {standard_task_runner.py:105} INFO - Job 249: Subtask fetch_spotify_data
+[2024-11-21T05:24:26.848+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/settings.py:209 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2024-11-21T05:24:26.908+0000] {task_command.py:467} INFO - Running <TaskInstance: juicy_luicy.fetch_spotify_data scheduled__2024-11-20T21:00:00+00:00 [running]> on host 4ed801b530e9
+[2024-11-21T05:24:26.911+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/settings.py:470 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2024-11-21T05:24:27.076+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='juicy_luicy' AIRFLOW_CTX_TASK_ID='fetch_spotify_data' AIRFLOW_CTX_EXECUTION_DATE='2024-11-20T21:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-11-20T21:00:00+00:00'
+[2024-11-21T05:24:27.078+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-11-21T05:24:28.615+0000] {logging_mixin.py:190} INFO - Spotify data saved to juicy_luicy_spotify.json successfully.
+[2024-11-21T05:24:28.617+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-11-21T05:24:28.635+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-11-21T05:24:28.637+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=juicy_luicy, task_id=fetch_spotify_data, run_id=scheduled__2024-11-20T21:00:00+00:00, execution_date=20241120T210000, start_date=20241121T052426, end_date=20241121T052428
+[2024-11-21T05:24:28.679+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-11-21T05:24:28.712+0000] {taskinstance.py:3895} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-11-21T05:24:28.721+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

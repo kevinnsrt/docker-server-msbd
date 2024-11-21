@@ -33,3 +33,38 @@
 [2024-11-20T17:17:28.838+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
 [2024-11-20T17:17:28.849+0000] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
 [2024-11-20T17:17:28.850+0000] {local_task_job_runner.py:245} INFO - ::endgroup::
+[2024-11-21T06:20:27.144+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-21T06:20:27.173+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: bmth.upsert_spotify_data scheduled__2024-11-20T12:00:00+00:00 [queued]>
+[2024-11-21T06:20:27.192+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: bmth.upsert_spotify_data scheduled__2024-11-20T12:00:00+00:00 [queued]>
+[2024-11-21T06:20:27.193+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 1
+[2024-11-21T06:20:27.220+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): upsert_spotify_data> on 2024-11-20 12:00:00+00:00
+[2024-11-21T06:20:27.229+0000] {standard_task_runner.py:72} INFO - Started process 1514 to run task
+[2024-11-21T06:20:27.234+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'bmth', 'upsert_spotify_data', 'scheduled__2024-11-20T12:00:00+00:00', '--job-id', '297', '--raw', '--subdir', 'DAGS_FOLDER/bmth.py', '--cfg-path', '/tmp/tmpz6cg81qu']
+[2024-11-21T06:20:27.238+0000] {standard_task_runner.py:105} INFO - Job 297: Subtask upsert_spotify_data
+[2024-11-21T06:20:27.270+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/settings.py:209 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2024-11-21T06:20:27.335+0000] {task_command.py:467} INFO - Running <TaskInstance: bmth.upsert_spotify_data scheduled__2024-11-20T12:00:00+00:00 [running]> on host 4ed801b530e9
+[2024-11-21T06:20:27.339+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/settings.py:470 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2024-11-21T06:20:27.485+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='bmth' AIRFLOW_CTX_TASK_ID='upsert_spotify_data' AIRFLOW_CTX_EXECUTION_DATE='2024-11-20T12:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-11-20T12:00:00+00:00'
+[2024-11-21T06:20:27.487+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-11-21T06:20:27.697+0000] {logging_mixin.py:190} INFO - Data artis berhasil diupdate.
+[2024-11-21T06:20:27.713+0000] {logging_mixin.py:190} INFO - Data kota Jakarta berhasil dimasukkan.
+[2024-11-21T06:20:27.718+0000] {logging_mixin.py:190} INFO - Data kota São Paulo berhasil dimasukkan.
+[2024-11-21T06:20:27.721+0000] {logging_mixin.py:190} INFO - Data kota London berhasil dimasukkan.
+[2024-11-21T06:20:27.725+0000] {logging_mixin.py:190} INFO - Data kota Sydney berhasil dimasukkan.
+[2024-11-21T06:20:27.729+0000] {logging_mixin.py:190} INFO - Data kota Melbourne berhasil dimasukkan.
+[2024-11-21T06:20:27.742+0000] {logging_mixin.py:190} INFO - Track Throne berhasil dimasukkan.
+[2024-11-21T06:20:27.748+0000] {logging_mixin.py:190} INFO - Track Can You Feel My Heart berhasil dimasukkan.
+[2024-11-21T06:20:27.751+0000] {logging_mixin.py:190} INFO - Track Kingslayer (feat. BABYMETAL) berhasil dimasukkan.
+[2024-11-21T06:20:27.754+0000] {logging_mixin.py:190} INFO - Track DArkSide berhasil dimasukkan.
+[2024-11-21T06:20:27.758+0000] {logging_mixin.py:190} INFO - Track Drown berhasil dimasukkan.
+[2024-11-21T06:20:27.761+0000] {logging_mixin.py:190} INFO - Track Kool-Aid berhasil dimasukkan.
+[2024-11-21T06:20:27.763+0000] {logging_mixin.py:190} INFO - Track Sleepwalking berhasil dimasukkan.
+[2024-11-21T06:20:27.766+0000] {logging_mixin.py:190} INFO - Track maybe (feat. Bring Me The Horizon) berhasil dimasukkan.
+[2024-11-21T06:20:27.769+0000] {logging_mixin.py:190} INFO - Track LosT berhasil dimasukkan.
+[2024-11-21T06:20:27.771+0000] {logging_mixin.py:190} INFO - Track Top 10 staTues tHat CriEd bloOd berhasil dimasukkan.
+[2024-11-21T06:20:27.780+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-11-21T06:20:27.801+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-11-21T06:20:27.802+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=bmth, task_id=upsert_spotify_data, run_id=scheduled__2024-11-20T12:00:00+00:00, execution_date=20241120T120000, start_date=20241121T062027, end_date=20241121T062027
+[2024-11-21T06:20:27.853+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-11-21T06:20:27.892+0000] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-11-21T06:20:27.895+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

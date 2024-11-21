@@ -1,0 +1,35 @@
+[2024-11-20T21:02:08.917+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-20T21:02:08.926+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: bruno_mars.upsert_spotify_data scheduled__2024-11-20T18:00:00+00:00 [queued]>
+[2024-11-20T21:02:08.933+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: bruno_mars.upsert_spotify_data scheduled__2024-11-20T18:00:00+00:00 [queued]>
+[2024-11-20T21:02:08.934+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 1
+[2024-11-20T21:02:08.949+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): upsert_spotify_data> on 2024-11-20 18:00:00+00:00
+[2024-11-20T21:02:08.954+0000] {standard_task_runner.py:72} INFO - Started process 3702 to run task
+[2024-11-20T21:02:08.957+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'bruno_mars', 'upsert_spotify_data', 'scheduled__2024-11-20T18:00:00+00:00', '--job-id', '239', '--raw', '--subdir', 'DAGS_FOLDER/bruno_mars.py', '--cfg-path', '/tmp/tmpmopz106p']
+[2024-11-20T21:02:08.959+0000] {standard_task_runner.py:105} INFO - Job 239: Subtask upsert_spotify_data
+[2024-11-20T21:02:08.972+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/settings.py:209 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2024-11-20T21:02:08.999+0000] {task_command.py:467} INFO - Running <TaskInstance: bruno_mars.upsert_spotify_data scheduled__2024-11-20T18:00:00+00:00 [running]> on host 4ed801b530e9
+[2024-11-20T21:02:09.001+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/settings.py:470 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2024-11-20T21:02:09.068+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='bruno_mars' AIRFLOW_CTX_TASK_ID='upsert_spotify_data' AIRFLOW_CTX_EXECUTION_DATE='2024-11-20T18:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-11-20T18:00:00+00:00'
+[2024-11-20T21:02:09.069+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-11-20T21:02:09.118+0000] {logging_mixin.py:190} INFO - Data artis berhasil diupdate.
+[2024-11-20T21:02:09.122+0000] {logging_mixin.py:190} INFO - Data kota Jakarta berhasil diupdate.
+[2024-11-20T21:02:09.123+0000] {logging_mixin.py:190} INFO - Data kota São Paulo berhasil diupdate.
+[2024-11-20T21:02:09.124+0000] {logging_mixin.py:190} INFO - Data kota Quezon City berhasil diupdate.
+[2024-11-20T21:02:09.124+0000] {logging_mixin.py:190} INFO - Data kota Santiago berhasil diupdate.
+[2024-11-20T21:02:09.125+0000] {logging_mixin.py:190} INFO - Data kota Bandung berhasil diupdate.
+[2024-11-20T21:02:09.129+0000] {logging_mixin.py:190} INFO - Track Die With A Smile berhasil diupdate.
+[2024-11-20T21:02:09.130+0000] {logging_mixin.py:190} INFO - Track APT. berhasil diupdate.
+[2024-11-20T21:02:09.131+0000] {logging_mixin.py:190} INFO - Track Locked out of Heaven berhasil diupdate.
+[2024-11-20T21:02:09.131+0000] {logging_mixin.py:190} INFO - Track Just the Way You Are berhasil diupdate.
+[2024-11-20T21:02:09.132+0000] {logging_mixin.py:190} INFO - Track That's What I Like berhasil diupdate.
+[2024-11-20T21:02:09.133+0000] {logging_mixin.py:190} INFO - Track When I Was Your Man berhasil diupdate.
+[2024-11-20T21:02:09.134+0000] {logging_mixin.py:190} INFO - Track It Will Rain berhasil diupdate.
+[2024-11-20T21:02:09.134+0000] {logging_mixin.py:190} INFO - Track Grenade berhasil diupdate.
+[2024-11-20T21:02:09.137+0000] {logging_mixin.py:190} INFO - Track Talking to the Moon berhasil diupdate.
+[2024-11-20T21:02:09.138+0000] {logging_mixin.py:190} INFO - Track Treasure berhasil diupdate.
+[2024-11-20T21:02:09.141+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-11-20T21:02:09.147+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-11-20T21:02:09.147+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=bruno_mars, task_id=upsert_spotify_data, run_id=scheduled__2024-11-20T18:00:00+00:00, execution_date=20241120T180000, start_date=20241120T210208, end_date=20241120T210209
+[2024-11-20T21:02:09.170+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-11-20T21:02:09.180+0000] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-11-20T21:02:09.181+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

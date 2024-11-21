@@ -2645,3 +2645,535 @@
 [2024-11-20T20:23:16.930+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:23:16.929+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2024-11-20T20:23:16.948+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:23:16.948+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
 [2024-11-20T20:23:16.970+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.262 seconds
+[2024-11-20T20:23:47.038+0000] {processor.py:186} INFO - Started process (PID=2825) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:23:47.039+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:23:47.040+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:23:47.040+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:23:47.213+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:23:47.232+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:23:47.232+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:23:47.251+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:23:47.251+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:23:47.270+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.237 seconds
+[2024-11-20T20:24:17.348+0000] {processor.py:186} INFO - Started process (PID=2833) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:24:17.348+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:24:17.350+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:24:17.349+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:24:17.521+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:24:17.542+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:24:17.541+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:24:17.560+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:24:17.559+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:24:17.576+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.234 seconds
+[2024-11-20T20:24:47.926+0000] {processor.py:186} INFO - Started process (PID=2841) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:24:47.927+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:24:47.928+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:24:47.928+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:24:48.105+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:24:48.126+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:24:48.125+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:24:48.145+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:24:48.145+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:24:48.162+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.241 seconds
+[2024-11-20T20:25:18.478+0000] {processor.py:186} INFO - Started process (PID=2849) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:25:18.479+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:25:18.481+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:25:18.480+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:25:18.672+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:25:18.693+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:25:18.693+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:25:18.712+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:25:18.712+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:25:18.733+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.260 seconds
+[2024-11-20T20:25:48.797+0000] {processor.py:186} INFO - Started process (PID=2857) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:25:48.798+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:25:48.799+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:25:48.799+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:25:48.996+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:25:49.019+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:25:49.019+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:25:49.037+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:25:49.037+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:25:49.057+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.265 seconds
+[2024-11-20T20:26:19.351+0000] {processor.py:186} INFO - Started process (PID=2865) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:26:19.352+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:26:19.353+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:26:19.353+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:26:19.527+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:26:19.546+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:26:19.546+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:26:19.564+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:26:19.564+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:26:19.582+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.236 seconds
+[2024-11-20T20:26:49.881+0000] {processor.py:186} INFO - Started process (PID=2873) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:26:49.881+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:26:49.883+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:26:49.882+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:26:50.085+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:26:50.105+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:26:50.104+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:26:50.124+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:26:50.124+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:26:50.146+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.272 seconds
+[2024-11-20T20:27:20.312+0000] {processor.py:186} INFO - Started process (PID=2881) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:27:20.313+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:27:20.315+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:27:20.314+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:27:20.494+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:27:20.512+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:27:20.512+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:27:20.530+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:27:20.530+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:27:20.548+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.241 seconds
+[2024-11-20T20:27:50.723+0000] {processor.py:186} INFO - Started process (PID=2889) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:27:50.724+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:27:50.726+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:27:50.725+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:27:50.896+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:27:50.918+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:27:50.917+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:27:50.937+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:27:50.937+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:27:50.953+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.235 seconds
+[2024-11-20T20:28:21.312+0000] {processor.py:186} INFO - Started process (PID=2897) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:28:21.313+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:28:21.314+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:28:21.314+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:28:21.482+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:28:21.502+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:28:21.501+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:28:21.520+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:28:21.519+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:28:21.537+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.230 seconds
+[2024-11-20T20:28:51.608+0000] {processor.py:186} INFO - Started process (PID=2905) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:28:51.609+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:28:51.610+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:28:51.609+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:28:51.783+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:28:51.803+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:28:51.803+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:28:51.821+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:28:51.821+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:28:51.838+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.235 seconds
+[2024-11-20T20:29:22.147+0000] {processor.py:186} INFO - Started process (PID=2913) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:29:22.148+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:29:22.149+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:29:22.149+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:29:22.324+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:29:22.343+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:29:22.343+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:29:22.359+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:29:22.359+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:29:22.377+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.236 seconds
+[2024-11-20T20:29:52.478+0000] {processor.py:186} INFO - Started process (PID=2921) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:29:52.479+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:29:52.480+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:29:52.480+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:29:52.657+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:29:52.680+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:29:52.680+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:29:52.699+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:29:52.698+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:29:52.716+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.244 seconds
+[2024-11-20T20:30:22.996+0000] {processor.py:186} INFO - Started process (PID=2929) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:30:22.997+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:30:22.998+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:30:22.998+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:30:23.176+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:30:23.198+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:30:23.197+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:30:23.216+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:30:23.215+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:30:23.235+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.245 seconds
+[2024-11-20T20:30:53.444+0000] {processor.py:186} INFO - Started process (PID=2937) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:30:53.445+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:30:53.447+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:30:53.446+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:30:53.726+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:30:53.754+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:30:53.754+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:30:53.782+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:30:53.782+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:30:53.815+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.380 seconds
+[2024-11-20T20:31:24.090+0000] {processor.py:186} INFO - Started process (PID=2945) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:31:24.091+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:31:24.092+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:31:24.092+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:31:24.318+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:31:24.339+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:31:24.339+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:31:24.356+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:31:24.356+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:31:24.375+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.291 seconds
+[2024-11-20T20:31:54.793+0000] {processor.py:186} INFO - Started process (PID=2953) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:31:54.794+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:31:54.795+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:31:54.795+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:31:54.979+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:31:55.000+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:31:55.000+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:31:55.019+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:31:55.018+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:31:55.037+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.250 seconds
+[2024-11-20T20:32:25.663+0000] {processor.py:186} INFO - Started process (PID=2961) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:32:25.664+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:32:25.667+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:32:25.665+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:32:25.990+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:32:26.029+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:32:26.029+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:32:26.049+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:32:26.048+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:32:26.071+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.423 seconds
+[2024-11-20T20:32:56.348+0000] {processor.py:186} INFO - Started process (PID=2969) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:32:56.349+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:32:56.351+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:32:56.350+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:32:56.536+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:32:56.555+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:32:56.555+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:32:56.574+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:32:56.574+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:32:56.593+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.250 seconds
+[2024-11-20T20:33:26.700+0000] {processor.py:186} INFO - Started process (PID=2977) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:33:26.702+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:33:26.708+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:33:26.707+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:33:26.926+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:33:26.950+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:33:26.949+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:33:26.969+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:33:26.969+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:33:26.991+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.301 seconds
+[2024-11-20T20:33:57.060+0000] {processor.py:186} INFO - Started process (PID=2985) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:33:57.061+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:33:57.062+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:33:57.062+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:33:57.239+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:33:57.259+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:33:57.259+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:33:57.277+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:33:57.277+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:33:57.295+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.241 seconds
+[2024-11-20T20:34:27.545+0000] {processor.py:186} INFO - Started process (PID=2993) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:34:27.546+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:34:27.547+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:34:27.547+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:34:27.720+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:34:27.740+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:34:27.739+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:34:27.759+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:34:27.758+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:34:27.780+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.240 seconds
+[2024-11-20T20:34:58.061+0000] {processor.py:186} INFO - Started process (PID=3001) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:34:58.062+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:34:58.064+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:34:58.063+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:34:58.243+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:34:58.263+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:34:58.263+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:34:58.282+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:34:58.282+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:34:58.301+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.246 seconds
+[2024-11-20T20:35:28.669+0000] {processor.py:186} INFO - Started process (PID=3009) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:35:28.670+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:35:28.671+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:35:28.671+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:35:28.850+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:35:28.869+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:35:28.869+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:35:28.887+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:35:28.886+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:35:28.904+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.240 seconds
+[2024-11-20T20:35:58.964+0000] {processor.py:186} INFO - Started process (PID=3017) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:35:58.965+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:35:58.966+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:35:58.966+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:35:59.139+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:35:59.159+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:35:59.158+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:35:59.176+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:35:59.176+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:35:59.197+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.238 seconds
+[2024-11-20T20:36:29.543+0000] {processor.py:186} INFO - Started process (PID=3025) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:36:29.544+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:36:29.545+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:36:29.545+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:36:29.723+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:36:29.743+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:36:29.743+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:36:29.761+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:36:29.761+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:36:29.778+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.241 seconds
+[2024-11-20T20:37:00.256+0000] {processor.py:186} INFO - Started process (PID=3033) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:37:00.257+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:37:00.259+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:37:00.258+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:37:00.434+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:37:00.453+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:37:00.453+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:37:00.472+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:37:00.472+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:37:00.494+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.243 seconds
+[2024-11-20T20:37:30.573+0000] {processor.py:186} INFO - Started process (PID=3041) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:37:30.574+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:37:30.575+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:37:30.575+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:37:30.882+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:37:30.906+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:37:30.905+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:37:30.929+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:37:30.928+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:37:30.951+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.385 seconds
+[2024-11-20T20:38:01.251+0000] {processor.py:186} INFO - Started process (PID=3049) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:38:01.252+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:38:01.254+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:38:01.253+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:38:01.451+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:38:01.473+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:38:01.473+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:38:01.493+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:38:01.493+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:38:01.514+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.271 seconds
+[2024-11-20T20:38:31.718+0000] {processor.py:186} INFO - Started process (PID=3057) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:38:31.719+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:38:31.720+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:38:31.720+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:38:31.921+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:38:31.939+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:38:31.939+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:38:31.957+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:38:31.957+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:38:31.974+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.262 seconds
+[2024-11-20T20:39:02.171+0000] {processor.py:186} INFO - Started process (PID=3065) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:39:02.172+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:39:02.174+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:39:02.173+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:39:02.347+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:39:02.366+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:39:02.365+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:39:02.385+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:39:02.385+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:39:02.405+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.241 seconds
+[2024-11-20T20:39:32.567+0000] {processor.py:186} INFO - Started process (PID=3073) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:39:32.568+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:39:32.569+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:39:32.569+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:39:32.742+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:39:32.762+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:39:32.762+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:39:32.780+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:39:32.780+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:39:32.797+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.236 seconds
+[2024-11-20T20:40:02.999+0000] {processor.py:186} INFO - Started process (PID=3081) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:40:03.001+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:40:03.002+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:40:03.002+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:40:03.389+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:40:03.423+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:40:03.422+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:40:03.461+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:40:03.461+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:40:03.490+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.500 seconds
+[2024-11-20T20:40:33.559+0000] {processor.py:186} INFO - Started process (PID=3089) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:40:33.560+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:40:33.562+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:40:33.561+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:40:33.747+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:40:33.771+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:40:33.770+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:40:34.055+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:40:34.055+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:40:34.083+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.531 seconds
+[2024-11-20T20:41:04.599+0000] {processor.py:186} INFO - Started process (PID=3097) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:41:04.600+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:41:04.601+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:41:04.601+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:41:04.791+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:41:04.811+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:41:04.811+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:41:04.830+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:41:04.830+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:41:04.965+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.372 seconds
+[2024-11-20T20:41:35.157+0000] {processor.py:186} INFO - Started process (PID=3105) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:41:35.158+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:41:35.159+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:41:35.159+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:41:35.332+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:41:35.355+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:41:35.354+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:41:35.373+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:41:35.372+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:41:35.390+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.239 seconds
+[2024-11-20T20:42:06.053+0000] {processor.py:186} INFO - Started process (PID=3113) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:42:06.054+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:42:06.055+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:42:06.055+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:42:06.235+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:42:06.375+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:42:06.375+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:42:06.392+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:42:06.392+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:42:06.408+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.360 seconds
+[2024-11-20T20:42:36.777+0000] {processor.py:186} INFO - Started process (PID=3121) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:42:36.778+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:42:36.779+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:42:36.779+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:42:37.091+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:42:37.109+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:42:37.109+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:42:37.126+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:42:37.126+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:42:37.147+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.376 seconds
+[2024-11-20T20:43:07.508+0000] {processor.py:186} INFO - Started process (PID=3129) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:43:07.509+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:43:07.510+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:43:07.509+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:43:07.815+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:43:07.832+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:43:07.832+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:43:07.850+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:43:07.850+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:43:07.866+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.364 seconds
+[2024-11-20T20:43:38.096+0000] {processor.py:186} INFO - Started process (PID=3137) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:43:38.097+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:43:38.100+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:43:38.099+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:43:38.436+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:43:38.453+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:43:38.452+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:43:38.469+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:43:38.468+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:43:38.486+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.396 seconds
+[2024-11-20T20:44:08.601+0000] {processor.py:186} INFO - Started process (PID=3145) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:44:08.602+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:44:08.603+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:44:08.603+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:44:08.903+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:44:08.920+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:44:08.919+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:44:08.935+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:44:08.934+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:44:08.953+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.357 seconds
+[2024-11-20T20:44:39.149+0000] {processor.py:186} INFO - Started process (PID=3153) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:44:39.150+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:44:39.151+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:44:39.151+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:44:39.449+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:44:39.468+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:44:39.468+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:44:39.484+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:44:39.484+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:44:39.504+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.361 seconds
+[2024-11-20T20:45:09.713+0000] {processor.py:186} INFO - Started process (PID=3161) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:45:09.714+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:45:09.716+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:45:09.716+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:45:10.009+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:45:10.026+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:45:10.026+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:45:10.041+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:45:10.041+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:45:10.060+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.352 seconds
+[2024-11-20T20:45:40.202+0000] {processor.py:186} INFO - Started process (PID=3169) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:45:40.203+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:45:40.205+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:45:40.204+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:45:40.507+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:45:40.524+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:45:40.524+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:45:40.542+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:45:40.542+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:45:40.561+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.365 seconds
+[2024-11-20T20:46:10.746+0000] {processor.py:186} INFO - Started process (PID=3177) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:46:10.747+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:46:10.749+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:46:10.748+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:46:11.060+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:46:11.076+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:46:11.076+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:46:11.091+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:46:11.091+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:46:11.108+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.367 seconds
+[2024-11-20T20:46:41.401+0000] {processor.py:186} INFO - Started process (PID=3185) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:46:41.402+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:46:41.403+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:46:41.403+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:46:41.706+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:46:41.724+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:46:41.724+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:46:41.741+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:46:41.741+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:46:41.759+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.363 seconds
+[2024-11-20T20:47:11.881+0000] {processor.py:186} INFO - Started process (PID=3193) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:47:11.882+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:47:11.884+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:47:11.884+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:47:12.188+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:47:12.204+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:47:12.204+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:47:12.221+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:47:12.221+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:47:12.240+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.365 seconds
+[2024-11-20T20:47:42.323+0000] {processor.py:186} INFO - Started process (PID=3201) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:47:42.324+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:47:42.325+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:47:42.325+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:47:42.633+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:47:42.649+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:47:42.649+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:47:42.664+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:47:42.664+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:47:42.681+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.363 seconds
+[2024-11-20T20:48:12.751+0000] {processor.py:186} INFO - Started process (PID=3209) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:48:12.752+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:48:12.753+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:48:12.753+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:48:13.062+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:48:13.077+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:48:13.077+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:48:13.092+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:48:13.092+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:48:13.109+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.364 seconds
+[2024-11-20T20:48:43.451+0000] {processor.py:186} INFO - Started process (PID=3217) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:48:43.452+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:48:43.453+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:48:43.453+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:48:43.771+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:48:43.787+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:48:43.787+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:48:43.803+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:48:43.803+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:48:43.820+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.376 seconds
+[2024-11-20T20:49:14.296+0000] {processor.py:186} INFO - Started process (PID=3225) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:49:14.297+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:49:14.298+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:49:14.298+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:49:14.586+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:49:14.603+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:49:14.603+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:49:14.618+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:49:14.618+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:49:14.636+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.345 seconds
+[2024-11-20T20:49:45.061+0000] {processor.py:186} INFO - Started process (PID=3233) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:49:45.063+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:49:45.064+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:49:45.064+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:49:45.372+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:49:45.389+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:49:45.389+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:49:45.407+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:49:45.406+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:49:45.427+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.372 seconds
+[2024-11-20T20:50:15.831+0000] {processor.py:186} INFO - Started process (PID=3241) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:50:15.832+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:50:15.833+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:50:15.833+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:50:16.132+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:50:16.148+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:50:16.147+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:50:16.162+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:50:16.162+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:50:16.178+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.353 seconds
+[2024-11-20T20:50:46.230+0000] {processor.py:186} INFO - Started process (PID=3249) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:50:46.232+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:50:46.233+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:50:46.232+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:50:46.669+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:50:46.686+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:50:46.686+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:50:46.704+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:50:46.703+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:50:46.722+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.498 seconds
+[2024-11-20T20:51:16.837+0000] {processor.py:186} INFO - Started process (PID=3257) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:51:16.838+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:51:16.839+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:51:16.838+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:51:17.012+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:51:17.032+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:51:17.032+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:51:17.051+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:51:17.051+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:51:17.078+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.247 seconds
+[2024-11-20T20:51:47.258+0000] {processor.py:186} INFO - Started process (PID=3265) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:51:47.259+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:51:47.260+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:51:47.260+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:51:47.432+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:51:47.474+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:51:47.473+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:51:47.491+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:51:47.491+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:51:47.510+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.257 seconds
+[2024-11-20T20:52:17.625+0000] {processor.py:186} INFO - Started process (PID=3273) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:52:17.626+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:52:17.627+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:52:17.627+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:52:17.800+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:52:17.820+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:52:17.820+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:52:17.837+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:52:17.837+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:52:17.858+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.239 seconds
+[2024-11-20T20:52:47.973+0000] {processor.py:186} INFO - Started process (PID=3281) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:52:47.973+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:52:47.975+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:52:47.974+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:52:48.162+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:52:48.186+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:52:48.186+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:52:48.206+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:52:48.206+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:52:48.228+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.261 seconds
+[2024-11-20T20:53:18.283+0000] {processor.py:186} INFO - Started process (PID=3289) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:53:18.284+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:53:18.286+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:53:18.286+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:53:18.466+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:53:18.489+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:53:18.489+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:53:18.508+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:53:18.508+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:53:18.526+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.249 seconds
+[2024-11-20T20:53:48.615+0000] {processor.py:186} INFO - Started process (PID=3297) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:53:48.617+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:53:48.619+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:53:48.618+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:53:48.793+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:53:48.812+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:53:48.811+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:53:48.828+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:53:48.828+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:53:48.847+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.239 seconds
+[2024-11-20T20:54:18.894+0000] {processor.py:186} INFO - Started process (PID=3305) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:54:18.895+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:54:18.896+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:54:18.896+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:54:19.086+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:54:19.106+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:54:19.106+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:54:19.124+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:54:19.124+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:54:19.146+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.258 seconds
+[2024-11-20T20:54:49.498+0000] {processor.py:186} INFO - Started process (PID=3313) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:54:49.499+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:54:49.501+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:54:49.500+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:54:49.690+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:54:49.711+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:54:49.711+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:54:49.730+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:54:49.730+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:54:49.748+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.256 seconds
+[2024-11-20T20:55:19.822+0000] {processor.py:186} INFO - Started process (PID=3321) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:55:19.823+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:55:19.824+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:55:19.824+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:55:20.009+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:55:20.030+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:55:20.030+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:55:20.052+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:55:20.051+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:55:20.070+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.254 seconds
+[2024-11-20T20:55:50.329+0000] {processor.py:186} INFO - Started process (PID=3329) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:55:50.330+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:55:50.332+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:55:50.331+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:55:50.520+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:55:50.543+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:55:50.543+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:55:50.562+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:55:50.561+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:55:50.581+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.261 seconds
+[2024-11-20T20:56:21.006+0000] {processor.py:186} INFO - Started process (PID=3337) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:56:21.007+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:56:21.008+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:56:21.008+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:56:21.195+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:56:21.212+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:56:21.212+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:56:21.229+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:56:21.229+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:56:21.246+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.247 seconds
+[2024-11-20T20:56:51.610+0000] {processor.py:186} INFO - Started process (PID=3345) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:56:51.611+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:56:51.612+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:56:51.612+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:56:51.786+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:56:51.808+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:56:51.808+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:56:51.827+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:56:51.827+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:56:51.846+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.242 seconds
+[2024-11-20T20:57:21.929+0000] {processor.py:186} INFO - Started process (PID=3353) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:57:21.930+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:57:21.931+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:57:21.931+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:57:22.107+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:57:22.127+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:57:22.127+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:57:22.145+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:57:22.145+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:57:22.164+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.240 seconds
+[2024-11-20T20:57:52.251+0000] {processor.py:186} INFO - Started process (PID=3361) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:57:52.252+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:57:52.253+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:57:52.253+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:57:52.422+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:57:52.441+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:57:52.441+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:57:52.458+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:57:52.458+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:57:52.478+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.232 seconds
+[2024-11-20T20:58:22.791+0000] {processor.py:186} INFO - Started process (PID=3369) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:58:22.792+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:58:22.793+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:58:22.793+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:58:23.028+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:58:23.047+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:58:23.046+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:58:23.065+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:58:23.065+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:58:23.081+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.295 seconds
+[2024-11-20T20:58:53.351+0000] {processor.py:186} INFO - Started process (PID=3377) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:58:53.353+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:58:53.354+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:58:53.354+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:58:53.522+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:58:53.541+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:58:53.541+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:58:53.559+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:58:53.559+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:58:53.577+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.231 seconds
+[2024-11-20T20:59:24.130+0000] {processor.py:186} INFO - Started process (PID=3385) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:59:24.131+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:59:24.133+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:59:24.133+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:59:24.321+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:59:24.340+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:59:24.340+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:59:24.359+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:59:24.358+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:59:24.378+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.254 seconds
+[2024-11-20T20:59:54.450+0000] {processor.py:186} INFO - Started process (PID=3393) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:59:54.451+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T20:59:54.452+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:59:54.452+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:59:54.637+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T20:59:54.659+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:59:54.658+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T20:59:54.677+0000] {logging_mixin.py:190} INFO - [2024-11-20T20:59:54.676+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 18:00:00+00:00, run_after=2024-11-20 21:00:00+00:00
+[2024-11-20T20:59:54.695+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.251 seconds
+[2024-11-20T21:00:25.252+0000] {processor.py:186} INFO - Started process (PID=3435) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T21:00:25.252+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T21:00:25.254+0000] {logging_mixin.py:190} INFO - [2024-11-20T21:00:25.253+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T21:00:25.496+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T21:00:25.515+0000] {logging_mixin.py:190} INFO - [2024-11-20T21:00:25.515+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T21:00:25.533+0000] {logging_mixin.py:190} INFO - [2024-11-20T21:00:25.533+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 21:00:00+00:00, run_after=2024-11-21 00:00:00+00:00
+[2024-11-20T21:00:25.552+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.306 seconds
+[2024-11-20T21:00:55.848+0000] {processor.py:186} INFO - Started process (PID=3509) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T21:00:55.849+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T21:00:55.851+0000] {logging_mixin.py:190} INFO - [2024-11-20T21:00:55.851+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T21:00:56.051+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T21:00:56.072+0000] {logging_mixin.py:190} INFO - [2024-11-20T21:00:56.072+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T21:00:56.092+0000] {logging_mixin.py:190} INFO - [2024-11-20T21:00:56.091+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 21:00:00+00:00, run_after=2024-11-21 00:00:00+00:00
+[2024-11-20T21:00:56.111+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.269 seconds
+[2024-11-20T21:01:26.365+0000] {processor.py:186} INFO - Started process (PID=3582) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T21:01:26.366+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T21:01:26.367+0000] {logging_mixin.py:190} INFO - [2024-11-20T21:01:26.366+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T21:01:26.546+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T21:01:26.567+0000] {logging_mixin.py:190} INFO - [2024-11-20T21:01:26.567+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T21:01:26.600+0000] {logging_mixin.py:190} INFO - [2024-11-20T21:01:26.600+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 21:00:00+00:00, run_after=2024-11-21 00:00:00+00:00
+[2024-11-20T21:01:26.637+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.278 seconds
+[2024-11-20T21:01:56.993+0000] {processor.py:186} INFO - Started process (PID=3666) to work on /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T21:01:56.995+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/juicy_luicy.py for tasks to queue
+[2024-11-20T21:01:56.999+0000] {logging_mixin.py:190} INFO - [2024-11-20T21:01:56.997+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T21:01:57.301+0000] {processor.py:925} INFO - DAG(s) 'juicy_luicy' retrieved from /opt/airflow/dags/juicy_luicy.py
+[2024-11-20T21:01:57.330+0000] {logging_mixin.py:190} INFO - [2024-11-20T21:01:57.330+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-20T21:01:57.360+0000] {logging_mixin.py:190} INFO - [2024-11-20T21:01:57.360+0000] {dag.py:4180} INFO - Setting next_dagrun for juicy_luicy to 2024-11-20 21:00:00+00:00, run_after=2024-11-21 00:00:00+00:00
+[2024-11-20T21:01:57.386+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/juicy_luicy.py took 0.400 seconds
