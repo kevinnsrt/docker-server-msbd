@@ -12,7 +12,7 @@ import time
 dag = DAG(
     'bruno_mars',
     default_args={'start_date': days_ago(1)},
-    schedule_interval='0 */3 * * *',  
+    schedule_interval='0 */12 * * *',  
     catchup=False
 )
 
@@ -34,7 +34,7 @@ def connect_to_db():
 def fetch_and_save_spotify_data():
     url = "https://spotify-statistics-and-stream-count.p.rapidapi.com/artist/0du5cEVh5yTK9QJze8zA0C"
     headers = {
-        "x-rapidapi-key": "065afcc0camsh8ddd21794759830p109244jsn8afdeb992d97",
+        "x-rapidapi-key": "9e8147b7fdmshfbe0fcce048273dp150bb6jsn3d64515ad611",
         "x-rapidapi-host": "spotify-statistics-and-stream-count.p.rapidapi.com"
     }
 
@@ -187,7 +187,7 @@ def fetch_and_save_youtube_data():
     querystring = {"id": "UCoUM-UJ7rirJYP8CQ0EIaHA", "hl": "en", "gl": "US"}
 
     headers = {
-        "x-rapidapi-key": "065afcc0camsh8ddd21794759830p109244jsn8afdeb992d97",
+        "x-rapidapi-key": "9e8147b7fdmshfbe0fcce048273dp150bb6jsn3d64515ad611",
         "x-rapidapi-host": "youtube138.p.rapidapi.com"
     }
 
