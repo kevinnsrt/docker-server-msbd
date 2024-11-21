@@ -18,6 +18,6 @@
 
 
 
-:bangbang: Jangan Lupa Hidupkan Docker Terlebih Dahulu :bangbang:
+:bangbang: Jangan Lupa Hidupkan Docker Terlebih Dahulu dan API KEY pake masing masing :bangbang:
 
 
