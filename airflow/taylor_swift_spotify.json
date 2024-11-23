@@ -2,104 +2,104 @@
     "id": "06HL4z0CvFAxyc27GXpf02",
     "name": "Taylor Swift",
     "verified": true,
-    "followers": 126276236,
-    "monthlyListeners": 90195775,
+    "followers": 126410681,
+    "monthlyListeners": 90043723,
     "worldRank": 5,
     "topCities": [
         {
             "country": "ID",
             "city": "Jakarta",
-            "numberOfListeners": 3147287
+            "numberOfListeners": 3076500
         },
         {
             "country": "GB",
             "city": "London",
-            "numberOfListeners": 1164797
+            "numberOfListeners": 1161596
         },
         {
             "country": "AU",
             "city": "Sydney",
-            "numberOfListeners": 1150859
+            "numberOfListeners": 1151277
         },
         {
             "country": "PH",
             "city": "Quezon City",
-            "numberOfListeners": 1099683
+            "numberOfListeners": 1110372
         },
         {
             "country": "AU",
             "city": "Melbourne",
-            "numberOfListeners": 961916
+            "numberOfListeners": 962031
         }
     ],
     "topTracks": [
         {
             "id": "1BxfuPKGuaTgP7aM0Bbdwr",
             "name": "Cruel Summer",
-            "streamCount": 2606916192,
+            "streamCount": 2610906424,
             "duration": 178426,
             "contentRating": "none"
         },
         {
             "id": "2OzhQlSqBEmt7hmkYxfT6m",
             "name": "Fortnight (feat. Post Malone)",
-            "streamCount": 736564612,
+            "streamCount": 739140155,
             "duration": 228965,
             "contentRating": "none"
         },
         {
             "id": "4q5YezDOIPcoLr8R81x9qy",
             "name": "I Can Do It With a Broken Heart",
-            "streamCount": 515262167,
+            "streamCount": 517440312,
             "duration": 218004,
             "contentRating": "explicit"
         },
         {
             "id": "3hUxzQpSfdDqwM3ZTFQY0K",
             "name": "august",
-            "streamCount": 1307511217,
+            "streamCount": 1309521360,
             "duration": 261922,
             "contentRating": "none"
         },
         {
             "id": "4R2kfaDFhslZEMJqAFNpdd",
             "name": "cardigan",
-            "streamCount": 1483049930,
+            "streamCount": 1485136155,
             "duration": 239560,
             "contentRating": "none"
         },
         {
             "id": "1dGr1c8CrMLDpV6mPbImSI",
             "name": "Lover",
-            "streamCount": 1601246693,
+            "streamCount": 1603157484,
             "duration": 221306,
             "contentRating": "none"
         },
         {
             "id": "1R0a2iXumgCiFb7HEZ7gUE",
             "name": "Don\u2019t Blame Me",
-            "streamCount": 1265248001,
+            "streamCount": 1266904463,
             "duration": 236413,
             "contentRating": "none"
         },
         {
             "id": "0V3wPSX9ygBnCm8psDIegu",
             "name": "Anti-Hero",
-            "streamCount": 1712560416,
+            "streamCount": 1714125465,
             "duration": 200690,
             "contentRating": "none"
         },
         {
             "id": "1u8c2t2Cy7UBoG4ArRcF5g",
             "name": "Blank Space",
-            "streamCount": 1953930652,
+            "streamCount": 1955496304,
             "duration": 231826,
             "contentRating": "none"
         },
         {
             "id": "0W0iAC1VGlB82PI6elxFYf",
             "name": "Guilty as Sin?",
-            "streamCount": 327597197,
+            "streamCount": 329034368,
             "duration": 254365,
             "contentRating": "none"
         }

@@ -12,7 +12,7 @@ import time
 dag = DAG(
     'linkin_park',
     default_args={'start_date': days_ago(1)},
-    schedule_interval='0 */12 * * *', 
+    schedule_interval='0 */3 * * *',
     catchup=False
 )
 
@@ -183,12 +183,12 @@ def connect_to_mongo():
 
 
 def fetch_and_save_youtube_data():
-    url = "https://youtube138.p.rapidapi.com/channel/videos/"
-    querystring = {"id": "UCZU9T1ceaOgwfLRq7OKFU4Q", "hl": "en", "gl": "US"}
+    url = "https://yt-api.p.rapidapi.com/channel/videos"
+    querystring = {"id": "UCZU9T1ceaOgwfLRq7OKFU4Q",}
 
     headers = {
         "x-rapidapi-key": "9e8147b7fdmshfbe0fcce048273dp150bb6jsn3d64515ad611",
-        "x-rapidapi-host": "youtube138.p.rapidapi.com"
+        "x-rapidapi-host": "yt-api.p.rapidapi.com"
     }
 
     print("Fetching YouTube data...")
@@ -206,24 +206,24 @@ def fetch_and_save_youtube_data():
 
     print("API response successfully fetched.")
 
-    if 'contents' in data:
-        videos = data['contents']
+    if "data" in data and isinstance(data["data"], list):
+        videos = data["data"]
 
-        sorted_videos = sorted(videos, key=lambda x: x['video']['stats']['views'], reverse=True)
-
+        # Menyaring dan menyusun informasi video
         channel_statistics = []
-        for video in sorted_videos:
-            video_info = video['video']
-            
-            timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        for video in videos:
+            video_name = video.get("title", "Unknown Title")
+            video_id = video.get("videoId", "Unknown ID")
+            publish_date = video.get("publishDate", "Unknown Date")
+            views = video.get("viewCount", "Unknown Views")
+            timestamp_now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
             channel_statistics.append({
-                'title': video_info['title'],
-                'videoId': video_info['videoId'],
-                'views': video_info['stats']['views'],
-                'publishedTime': video_info['publishedTimeText'],
-                'lengthSeconds': video_info['lengthSeconds'],
-                'timestamp': timestamp  
+                "title": video_name,
+                "videoId": video_id,
+                "views": views,
+                "publishDate": publish_date,
+                "timestamp": timestamp_now
             })
 
         with open('/opt/airflow/linkin_park_youtube.json', 'w') as json_file:

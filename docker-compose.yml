@@ -46,6 +46,7 @@ services:
       MONGO_INITDB_ROOT_PASSWORD: '123'
     volumes:
       - mongo_data:/data/db
+      - ./dump:/dump  
     ports:
       - "27017:27017"  
   

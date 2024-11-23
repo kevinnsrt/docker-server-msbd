@@ -2,104 +2,104 @@
     "id": "0du5cEVh5yTK9QJze8zA0C",
     "name": "Bruno Mars",
     "verified": true,
-    "followers": 62398498,
-    "monthlyListeners": 134093705,
+    "followers": 62502821,
+    "monthlyListeners": 134384183,
     "worldRank": 1,
     "topCities": [
         {
             "country": "ID",
             "city": "Jakarta",
-            "numberOfListeners": 6336205
+            "numberOfListeners": 6155756
         },
         {
             "country": "BR",
             "city": "S\u00e3o Paulo",
-            "numberOfListeners": 2162827
+            "numberOfListeners": 2150927
         },
         {
             "country": "PH",
             "city": "Quezon City",
-            "numberOfListeners": 1792578
+            "numberOfListeners": 1797342
         },
         {
             "country": "CL",
             "city": "Santiago",
-            "numberOfListeners": 1496625
+            "numberOfListeners": 1501504
         },
         {
             "country": "ID",
             "city": "Bandung",
-            "numberOfListeners": 1481656
+            "numberOfListeners": 1477078
         }
     ],
     "topTracks": [
         {
             "id": "2plbrEY59IikOBgBGLjaoe",
             "name": "Die With A Smile",
-            "streamCount": 999850173,
+            "streamCount": 1018993261,
             "duration": 251667,
             "contentRating": "none"
         },
         {
             "id": "5vNRhkKd0yEAg8suGBpjeY",
             "name": "APT.",
-            "streamCount": 385562862,
+            "streamCount": 403346065,
             "duration": 169917,
             "contentRating": "none"
         },
         {
             "id": "3w3y8KPTfNeOKPiqUTakBh",
             "name": "Locked out of Heaven",
-            "streamCount": 2296774858,
+            "streamCount": 2302037672,
             "duration": 233478,
             "contentRating": "none"
         },
         {
             "id": "47Slg6LuqLaX0VodpSCvPt",
             "name": "Just the Way You Are",
-            "streamCount": 2371729896,
+            "streamCount": 2376750162,
             "duration": 220734,
             "contentRating": "none"
         },
         {
             "id": "0KKkJNfGyhkQ5aFogxQAPU",
             "name": "That's What I Like",
-            "streamCount": 2310585786,
+            "streamCount": 2316028790,
             "duration": 206693,
             "contentRating": "none"
         },
         {
             "id": "0nJW01T7XtvILxQgC5J7Wh",
             "name": "When I Was Your Man",
-            "streamCount": 2377776827,
+            "streamCount": 2380862951,
             "duration": 213826,
-            "contentRating": "none"
-        },
-        {
-            "id": "0M3HkE321xpCbCYqVKzr1q",
-            "name": "It Will Rain",
-            "streamCount": 1022205055,
-            "duration": 257720,
             "contentRating": "none"
         },
         {
             "id": "4lLtanYk6tkMvooU0tWzG8",
             "name": "Grenade",
-            "streamCount": 1450028092,
+            "streamCount": 1452798857,
             "duration": 222091,
+            "contentRating": "none"
+        },
+        {
+            "id": "0M3HkE321xpCbCYqVKzr1q",
+            "name": "It Will Rain",
+            "streamCount": 1024199864,
+            "duration": 257720,
             "contentRating": "none"
         },
         {
             "id": "1wVuPmvt6AWvTL5W2GJnzZ",
             "name": "Talking to the Moon",
-            "streamCount": 1531098530,
+            "streamCount": 1533141941,
             "duration": 217866,
             "contentRating": "none"
         },
         {
             "id": "6SKwQghsR8AISlxhcwyA9R",
             "name": "Marry You",
-            "streamCount": 1117975445,
+            "streamCount": 1119770035,
             "duration": 230192,
             "contentRating": "none"
         }

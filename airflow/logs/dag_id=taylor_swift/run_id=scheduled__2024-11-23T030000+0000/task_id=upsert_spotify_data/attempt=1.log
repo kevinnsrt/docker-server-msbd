@@ -1,0 +1,35 @@
+[2024-11-23T08:05:46.590+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-23T08:05:46.612+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: taylor_swift.upsert_spotify_data scheduled__2024-11-23T03:00:00+00:00 [queued]>
+[2024-11-23T08:05:46.628+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: taylor_swift.upsert_spotify_data scheduled__2024-11-23T03:00:00+00:00 [queued]>
+[2024-11-23T08:05:46.629+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 1
+[2024-11-23T08:05:46.658+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): upsert_spotify_data> on 2024-11-23 03:00:00+00:00
+[2024-11-23T08:05:46.667+0000] {standard_task_runner.py:72} INFO - Started process 482 to run task
+[2024-11-23T08:05:46.672+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'taylor_swift', 'upsert_spotify_data', 'scheduled__2024-11-23T03:00:00+00:00', '--job-id', '381', '--raw', '--subdir', 'DAGS_FOLDER/taylor_swift.py', '--cfg-path', '/tmp/tmpb70bhbfw']
+[2024-11-23T08:05:46.676+0000] {standard_task_runner.py:105} INFO - Job 381: Subtask upsert_spotify_data
+[2024-11-23T08:05:46.702+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/settings.py:209 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2024-11-23T08:05:46.759+0000] {task_command.py:467} INFO - Running <TaskInstance: taylor_swift.upsert_spotify_data scheduled__2024-11-23T03:00:00+00:00 [running]> on host 873bffc6ab09
+[2024-11-23T08:05:46.762+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/settings.py:470 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2024-11-23T08:05:46.896+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='taylor_swift' AIRFLOW_CTX_TASK_ID='upsert_spotify_data' AIRFLOW_CTX_EXECUTION_DATE='2024-11-23T03:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-11-23T03:00:00+00:00'
+[2024-11-23T08:05:46.897+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-11-23T08:05:47.017+0000] {logging_mixin.py:190} INFO - Data artis berhasil diupdate.
+[2024-11-23T08:05:47.026+0000] {logging_mixin.py:190} INFO - Data kota Jakarta berhasil diupdate.
+[2024-11-23T08:05:47.028+0000] {logging_mixin.py:190} INFO - Data kota London berhasil diupdate.
+[2024-11-23T08:05:47.030+0000] {logging_mixin.py:190} INFO - Data kota Sydney berhasil diupdate.
+[2024-11-23T08:05:47.032+0000] {logging_mixin.py:190} INFO - Data kota Quezon City berhasil diupdate.
+[2024-11-23T08:05:47.035+0000] {logging_mixin.py:190} INFO - Data kota Melbourne berhasil diupdate.
+[2024-11-23T08:05:47.043+0000] {logging_mixin.py:190} INFO - Track Cruel Summer berhasil diupdate.
+[2024-11-23T08:05:47.045+0000] {logging_mixin.py:190} INFO - Track Fortnight (feat. Post Malone) berhasil diupdate.
+[2024-11-23T08:05:47.047+0000] {logging_mixin.py:190} INFO - Track I Can Do It With a Broken Heart berhasil diupdate.
+[2024-11-23T08:05:47.049+0000] {logging_mixin.py:190} INFO - Track august berhasil diupdate.
+[2024-11-23T08:05:47.051+0000] {logging_mixin.py:190} INFO - Track cardigan berhasil diupdate.
+[2024-11-23T08:05:47.053+0000] {logging_mixin.py:190} INFO - Track Lover berhasil diupdate.
+[2024-11-23T08:05:47.058+0000] {logging_mixin.py:190} INFO - Track Don’t Blame Me berhasil diupdate.
+[2024-11-23T08:05:47.061+0000] {logging_mixin.py:190} INFO - Track Anti-Hero berhasil diupdate.
+[2024-11-23T08:05:47.063+0000] {logging_mixin.py:190} INFO - Track Blank Space berhasil diupdate.
+[2024-11-23T08:05:47.064+0000] {logging_mixin.py:190} INFO - Track Guilty as Sin? berhasil diupdate.
+[2024-11-23T08:05:47.071+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-11-23T08:05:47.083+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-11-23T08:05:47.084+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=taylor_swift, task_id=upsert_spotify_data, run_id=scheduled__2024-11-23T03:00:00+00:00, execution_date=20241123T030000, start_date=20241123T080546, end_date=20241123T080547
+[2024-11-23T08:05:47.128+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-11-23T08:05:47.151+0000] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-11-23T08:05:47.154+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

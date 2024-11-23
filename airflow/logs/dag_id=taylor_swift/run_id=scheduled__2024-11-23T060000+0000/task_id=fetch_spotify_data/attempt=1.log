@@ -1,0 +1,20 @@
+[2024-11-23T09:00:33.439+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-23T09:00:33.449+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: taylor_swift.fetch_spotify_data scheduled__2024-11-23T06:00:00+00:00 [queued]>
+[2024-11-23T09:00:33.455+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: taylor_swift.fetch_spotify_data scheduled__2024-11-23T06:00:00+00:00 [queued]>
+[2024-11-23T09:00:33.456+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 1
+[2024-11-23T09:00:33.468+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): fetch_spotify_data> on 2024-11-23 06:00:00+00:00
+[2024-11-23T09:00:33.471+0000] {standard_task_runner.py:72} INFO - Started process 983 to run task
+[2024-11-23T09:00:33.474+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'taylor_swift', 'fetch_spotify_data', 'scheduled__2024-11-23T06:00:00+00:00', '--job-id', '388', '--raw', '--subdir', 'DAGS_FOLDER/taylor_swift.py', '--cfg-path', '/tmp/tmpqs7we1wx']
+[2024-11-23T09:00:33.475+0000] {standard_task_runner.py:105} INFO - Job 388: Subtask fetch_spotify_data
+[2024-11-23T09:00:33.487+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/settings.py:209 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2024-11-23T09:00:33.510+0000] {task_command.py:467} INFO - Running <TaskInstance: taylor_swift.fetch_spotify_data scheduled__2024-11-23T06:00:00+00:00 [running]> on host 873bffc6ab09
+[2024-11-23T09:00:33.511+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/settings.py:470 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2024-11-23T09:00:33.572+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='taylor_swift' AIRFLOW_CTX_TASK_ID='fetch_spotify_data' AIRFLOW_CTX_EXECUTION_DATE='2024-11-23T06:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-11-23T06:00:00+00:00'
+[2024-11-23T09:00:33.573+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-11-23T09:00:35.323+0000] {logging_mixin.py:190} INFO - Spotify data saved to taylor_swift_spotify.json successfully.
+[2024-11-23T09:00:35.323+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-11-23T09:00:35.328+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-11-23T09:00:35.329+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=taylor_swift, task_id=fetch_spotify_data, run_id=scheduled__2024-11-23T06:00:00+00:00, execution_date=20241123T060000, start_date=20241123T090033, end_date=20241123T090035
+[2024-11-23T09:00:35.379+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-11-23T09:00:35.395+0000] {taskinstance.py:3895} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-11-23T09:00:35.400+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

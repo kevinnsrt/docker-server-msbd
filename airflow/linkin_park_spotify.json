@@ -2,104 +2,104 @@
     "id": "6XyY86QOPPrYVGvF9ch6wz",
     "name": "Linkin Park",
     "verified": true,
-    "followers": 27650741,
-    "monthlyListeners": 55696878,
-    "worldRank": 37,
+    "followers": 27682832,
+    "monthlyListeners": 56027485,
+    "worldRank": 36,
     "topCities": [
         {
             "country": "BR",
             "city": "S\u00e3o Paulo",
-            "numberOfListeners": 1166214
+            "numberOfListeners": 1170897
         },
         {
             "country": "ID",
             "city": "Jakarta",
-            "numberOfListeners": 908436
+            "numberOfListeners": 891805
         },
         {
             "country": "FR",
             "city": "Paris",
-            "numberOfListeners": 710219
+            "numberOfListeners": 715236
         },
         {
             "country": "DE",
             "city": "Hamburg",
-            "numberOfListeners": 632943
+            "numberOfListeners": 638812
         },
         {
             "country": "GB",
             "city": "London",
-            "numberOfListeners": 625011
+            "numberOfListeners": 635021
         }
     ],
     "topTracks": [
         {
             "id": "1EDPVGbyPKJPeGqATwXZvN",
             "name": "The Emptiness Machine",
-            "streamCount": 278689005,
+            "streamCount": 285124832,
             "duration": 190427,
             "contentRating": "explicit"
         },
         {
             "id": "2HBBM75Xv3o2Mqdyh1NcM0",
             "name": "Heavy Is the Crown",
-            "streamCount": 126719698,
+            "streamCount": 131378907,
             "duration": 167012,
             "contentRating": "none"
         },
         {
             "id": "60a0Rd6pjrkxjPbaKzXjfq",
             "name": "In the End",
-            "streamCount": 2307047503,
+            "streamCount": 2311724685,
             "duration": 216880,
             "contentRating": "none"
         },
         {
             "id": "2nLtzopw4rPReszdYBJU6h",
             "name": "Numb",
-            "streamCount": 1974715706,
+            "streamCount": 1979006407,
             "duration": 187520,
             "contentRating": "none"
         },
         {
             "id": "4Yf5bqU3NK4kNOypcrLYwU",
             "name": "Faint",
-            "streamCount": 836414629,
+            "streamCount": 839079538,
             "duration": 162106,
             "contentRating": "none"
         },
         {
             "id": "3k4gjmYNJugQRlh2aounZ9",
             "name": "Over Each Other",
-            "streamCount": 31219862,
+            "streamCount": 34013743,
             "duration": 170445,
-            "contentRating": "none"
-        },
-        {
-            "id": "3K4HG9evC7dg3N0R9cYqk4",
-            "name": "One Step Closer",
-            "streamCount": 818973371,
-            "duration": 157333,
             "contentRating": "none"
         },
         {
             "id": "6i5qhmmF9UNUBRyrPSGn4m",
             "name": "Two Faced",
-            "streamCount": 16224413,
+            "streamCount": 20148829,
             "duration": 183584,
+            "contentRating": "none"
+        },
+        {
+            "id": "3K4HG9evC7dg3N0R9cYqk4",
+            "name": "One Step Closer",
+            "streamCount": 820611549,
+            "duration": 157333,
             "contentRating": "none"
         },
         {
             "id": "18lR4BzEs7e3qzc0KVkTpU",
             "name": "What I've Done",
-            "streamCount": 971495464,
+            "streamCount": 973011429,
             "duration": 205226,
             "contentRating": "none"
         },
         {
             "id": "0UFDKFqW2oGspYeYqo9wjA",
             "name": "Bleed It Out",
-            "streamCount": 685646854,
+            "streamCount": 686923078,
             "duration": 164426,
             "contentRating": "explicit"
         }
@@ -230,16 +230,16 @@
     ],
     "popularReleases": [
         {
-            "id": "6hPkbAV3ZXpGZBGUvL6jVM",
-            "name": "Hybrid Theory (Bonus Edition)",
-            "type": "album",
-            "releaseDate": "2000"
-        },
-        {
             "id": "4R6FV9NSzhPihHR0h4pI93",
             "name": "From Zero",
             "type": "album",
             "releaseDate": "2024-11-15"
+        },
+        {
+            "id": "6hPkbAV3ZXpGZBGUvL6jVM",
+            "name": "Hybrid Theory (Bonus Edition)",
+            "type": "album",
+            "releaseDate": "2000"
         },
         {
             "id": "0f7R0jf0pcTb6K6IVVPcMD",
@@ -278,16 +278,16 @@
             "releaseDate": "2010-09-08"
         },
         {
-            "id": "3XB2yloP7l00tEUmaODtVi",
-            "name": "The Hunting Party",
-            "type": "album",
-            "releaseDate": "2014-06-09"
-        },
-        {
             "id": "1X472EvsSqH09RyrqbtyXU",
             "name": "Papercuts",
             "type": "album",
             "releaseDate": "2024-04-12"
+        },
+        {
+            "id": "3XB2yloP7l00tEUmaODtVi",
+            "name": "The Hunting Party",
+            "type": "album",
+            "releaseDate": "2014-06-09"
         }
     ],
     "latest": {

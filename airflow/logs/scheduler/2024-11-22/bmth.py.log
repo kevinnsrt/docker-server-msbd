@@ -1,0 +1,1421 @@
+[2024-11-22T14:15:09.502+0000] {processor.py:186} INFO - Started process (PID=67) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:15:09.504+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:15:09.508+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:15:09.508+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:15:09.930+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:15:10.031+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:15:10.031+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:15:10.052+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:15:10.052+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 00:00:00+00:00, run_after=2024-11-22 12:00:00+00:00
+[2024-11-22T14:15:10.075+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.581 seconds
+[2024-11-22T14:15:40.476+0000] {processor.py:186} INFO - Started process (PID=135) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:15:40.477+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:15:40.479+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:15:40.479+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:15:41.047+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:15:41.093+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:15:41.092+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:15:41.137+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:15:41.137+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:15:41.180+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.709 seconds
+[2024-11-22T14:16:11.522+0000] {processor.py:186} INFO - Started process (PID=207) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:16:11.524+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:16:11.526+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:16:11.526+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:16:11.887+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:16:11.910+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:16:11.909+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:16:11.927+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:16:11.927+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:16:11.948+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.437 seconds
+[2024-11-22T14:16:42.394+0000] {processor.py:186} INFO - Started process (PID=306) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:16:42.395+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:16:42.398+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:16:42.397+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:16:42.930+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:16:42.960+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:16:42.959+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:16:42.997+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:16:42.997+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:16:43.027+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.642 seconds
+[2024-11-22T14:17:13.418+0000] {processor.py:186} INFO - Started process (PID=326) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:17:13.419+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:17:13.421+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:17:13.420+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:17:13.754+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:17:13.773+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:17:13.773+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:17:13.791+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:17:13.791+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:17:13.809+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.397 seconds
+[2024-11-22T14:17:44.635+0000] {processor.py:186} INFO - Started process (PID=330) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:17:44.636+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:17:44.638+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:17:44.638+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:17:44.942+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:17:44.957+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:17:44.957+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:17:44.975+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:17:44.975+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:17:44.992+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.362 seconds
+[2024-11-22T14:18:15.724+0000] {processor.py:186} INFO - Started process (PID=334) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:18:15.725+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:18:15.729+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:18:15.728+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:18:15.904+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:18:15.923+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:18:15.923+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:18:15.947+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:18:15.947+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:18:15.970+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.253 seconds
+[2024-11-22T14:18:46.397+0000] {processor.py:186} INFO - Started process (PID=338) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:18:46.398+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:18:46.400+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:18:46.399+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:18:46.607+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:18:46.629+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:18:46.629+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:18:46.656+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:18:46.656+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:18:46.681+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.293 seconds
+[2024-11-22T14:19:17.328+0000] {processor.py:186} INFO - Started process (PID=342) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:19:17.329+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:19:17.331+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:19:17.330+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:19:17.515+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:19:17.534+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:19:17.534+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:19:17.555+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:19:17.555+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:19:17.575+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.254 seconds
+[2024-11-22T14:19:47.762+0000] {processor.py:186} INFO - Started process (PID=346) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:19:47.770+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:19:47.779+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:19:47.776+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:19:48.131+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:19:48.154+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:19:48.154+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:19:48.179+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:19:48.178+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:19:48.201+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.449 seconds
+[2024-11-22T14:20:18.344+0000] {processor.py:186} INFO - Started process (PID=350) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:20:18.345+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:20:18.347+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:20:18.347+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:20:18.542+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:20:18.564+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:20:18.563+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:20:18.585+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:20:18.585+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:20:18.606+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.268 seconds
+[2024-11-22T14:20:49.436+0000] {processor.py:186} INFO - Started process (PID=354) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:20:49.438+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:20:49.441+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:20:49.441+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:20:49.631+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:20:49.649+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:20:49.649+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:20:49.671+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:20:49.671+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:20:49.689+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.268 seconds
+[2024-11-22T14:21:20.326+0000] {processor.py:186} INFO - Started process (PID=358) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:21:20.327+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:21:20.329+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:21:20.329+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:21:20.508+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:21:20.529+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:21:20.529+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:21:20.549+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:21:20.549+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:21:20.568+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.249 seconds
+[2024-11-22T14:21:51.273+0000] {processor.py:186} INFO - Started process (PID=362) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:21:51.274+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:21:51.277+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:21:51.277+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:21:51.477+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:21:51.497+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:21:51.497+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:21:51.518+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:21:51.518+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:21:51.538+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.271 seconds
+[2024-11-22T14:22:22.441+0000] {processor.py:186} INFO - Started process (PID=366) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:22:22.443+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:22:22.448+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:22:22.447+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:22:22.855+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:22:22.904+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:22:22.904+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:22:22.953+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:22:22.953+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:22:22.998+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.569 seconds
+[2024-11-22T14:22:53.254+0000] {processor.py:186} INFO - Started process (PID=370) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:22:53.256+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:22:53.260+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:22:53.260+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:22:53.894+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:22:53.960+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:22:53.960+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:22:54.041+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:22:54.040+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:22:54.110+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.868 seconds
+[2024-11-22T14:23:25.376+0000] {processor.py:186} INFO - Started process (PID=374) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:23:25.387+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:23:25.395+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:23:25.394+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:23:26.349+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:23:26.412+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:23:26.412+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:23:26.503+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:23:26.502+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:23:26.591+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 1.262 seconds
+[2024-11-22T14:23:57.028+0000] {processor.py:186} INFO - Started process (PID=378) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:23:57.030+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:23:57.035+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:23:57.034+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:23:57.451+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:23:57.494+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:23:57.493+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:23:57.537+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:23:57.537+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:23:57.583+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.569 seconds
+[2024-11-22T14:24:27.911+0000] {processor.py:186} INFO - Started process (PID=382) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:24:27.913+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:24:27.918+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:24:27.917+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:24:28.325+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:24:28.367+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:24:28.366+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:24:28.412+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:24:28.411+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:24:28.455+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.556 seconds
+[2024-11-22T14:24:58.765+0000] {processor.py:186} INFO - Started process (PID=386) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:24:58.767+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:24:58.772+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:24:58.771+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:24:59.175+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:24:59.224+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:24:59.224+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:24:59.270+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:24:59.269+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:24:59.312+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.560 seconds
+[2024-11-22T14:25:29.698+0000] {processor.py:186} INFO - Started process (PID=390) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:25:29.700+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:25:29.707+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:25:29.706+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:25:30.252+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:25:30.297+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:25:30.297+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:25:30.343+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:25:30.342+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:25:30.382+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.704 seconds
+[2024-11-22T14:26:00.999+0000] {processor.py:186} INFO - Started process (PID=394) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:26:01.001+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:26:01.007+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:26:01.006+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:26:01.408+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:26:01.450+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:26:01.450+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:26:01.498+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:26:01.498+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:26:01.539+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.557 seconds
+[2024-11-22T14:26:32.544+0000] {processor.py:186} INFO - Started process (PID=398) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:26:32.546+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:26:32.550+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:26:32.550+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:26:32.986+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:26:33.030+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:26:33.030+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:26:33.076+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:26:33.076+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:26:33.123+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.592 seconds
+[2024-11-22T14:27:03.502+0000] {processor.py:186} INFO - Started process (PID=402) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:27:03.504+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:27:03.508+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:27:03.508+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:27:03.917+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:27:03.959+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:27:03.958+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:27:04.007+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:27:04.007+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:27:04.057+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.567 seconds
+[2024-11-22T14:27:34.499+0000] {processor.py:186} INFO - Started process (PID=406) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:27:34.501+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:27:34.506+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:27:34.505+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:27:34.927+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:27:34.973+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:27:34.973+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:27:35.023+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:27:35.022+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:27:35.066+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.580 seconds
+[2024-11-22T14:28:05.425+0000] {processor.py:186} INFO - Started process (PID=410) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:28:05.428+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:28:05.434+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:28:05.433+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:28:05.869+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:28:05.916+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:28:05.915+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:28:05.965+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:28:05.964+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:28:06.004+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.595 seconds
+[2024-11-22T14:28:36.757+0000] {processor.py:186} INFO - Started process (PID=414) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:28:36.759+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:28:36.764+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:28:36.763+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:28:37.197+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:28:37.242+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:28:37.241+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:28:37.288+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:28:37.287+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:28:37.333+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.588 seconds
+[2024-11-22T14:29:07.924+0000] {processor.py:186} INFO - Started process (PID=418) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:29:07.926+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:29:07.932+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:29:07.931+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:29:08.410+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:29:08.454+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:29:08.453+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:29:08.497+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:29:08.497+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:29:08.540+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.630 seconds
+[2024-11-22T14:29:38.976+0000] {processor.py:186} INFO - Started process (PID=422) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:29:38.977+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:29:38.982+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:29:38.981+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:29:39.384+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:29:39.427+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:29:39.426+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:29:39.474+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:29:39.473+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:29:39.512+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.549 seconds
+[2024-11-22T14:30:10.767+0000] {processor.py:186} INFO - Started process (PID=426) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:30:10.769+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:30:10.774+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:30:10.773+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:30:11.257+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:30:11.302+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:30:11.302+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:30:11.350+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:30:11.350+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:30:11.393+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.637 seconds
+[2024-11-22T14:30:49.498+0000] {processor.py:186} INFO - Started process (PID=430) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:30:49.501+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:30:49.507+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:30:49.506+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:30:49.954+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:30:50.026+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:30:50.025+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:30:50.095+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:30:50.094+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:30:50.132+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.649 seconds
+[2024-11-22T14:31:20.952+0000] {processor.py:186} INFO - Started process (PID=434) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:31:20.954+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:31:20.960+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:31:20.959+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:31:21.355+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:31:21.397+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:31:21.397+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:31:21.441+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:31:21.440+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:31:21.489+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.549 seconds
+[2024-11-22T14:31:51.910+0000] {processor.py:186} INFO - Started process (PID=438) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:31:51.911+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:31:51.916+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:31:51.915+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:31:52.349+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:31:52.392+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:31:52.391+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:31:52.437+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:31:52.436+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:31:52.482+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.584 seconds
+[2024-11-22T14:32:22.813+0000] {processor.py:186} INFO - Started process (PID=442) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:32:22.815+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:32:22.822+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:32:22.821+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:32:23.215+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:32:23.257+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:32:23.257+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:32:23.303+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:32:23.302+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:32:23.341+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.543 seconds
+[2024-11-22T14:32:54.111+0000] {processor.py:186} INFO - Started process (PID=446) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:32:54.112+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:32:54.117+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:32:54.116+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:32:54.556+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:32:54.599+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:32:54.599+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:32:54.668+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:32:54.667+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:32:54.708+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.611 seconds
+[2024-11-22T14:33:25.008+0000] {processor.py:186} INFO - Started process (PID=450) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T14:33:25.010+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T14:33:25.015+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:33:25.014+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T14:33:25.415+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T14:33:25.482+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:33:25.481+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T14:33:25.526+0000] {logging_mixin.py:190} INFO - [2024-11-22T14:33:25.526+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T14:33:25.565+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.569 seconds
+[2024-11-22T15:06:30.889+0000] {processor.py:186} INFO - Started process (PID=58) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:06:30.893+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:06:30.897+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:06:30.897+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:06:31.523+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:06:31.560+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:06:31.559+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:06:31.598+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:06:31.598+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:06:31.636+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.762 seconds
+[2024-11-22T15:07:02.014+0000] {processor.py:186} INFO - Started process (PID=71) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:07:02.016+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:07:02.020+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:07:02.019+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:07:02.632+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:07:02.667+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:07:02.666+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:07:02.707+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:07:02.707+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:07:02.744+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.742 seconds
+[2024-11-22T15:07:33.045+0000] {processor.py:186} INFO - Started process (PID=75) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:07:33.048+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:07:33.053+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:07:33.052+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:07:33.661+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:07:33.700+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:07:33.699+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:07:33.743+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:07:33.742+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:07:33.790+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.755 seconds
+[2024-11-22T15:08:04.676+0000] {processor.py:186} INFO - Started process (PID=79) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:08:04.678+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:08:04.687+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:08:04.685+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:08:05.676+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:08:05.719+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:08:05.719+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:08:05.795+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:08:05.794+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:08:05.845+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 1.192 seconds
+[2024-11-22T15:08:35.942+0000] {processor.py:186} INFO - Started process (PID=83) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:08:35.944+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:08:35.948+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:08:35.947+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:08:36.554+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:08:36.593+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:08:36.593+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:08:36.634+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:08:36.634+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:08:36.675+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.744 seconds
+[2024-11-22T15:09:06.787+0000] {processor.py:186} INFO - Started process (PID=87) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:09:06.789+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:09:06.793+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:09:06.793+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:09:07.427+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:09:07.463+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:09:07.462+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:09:07.515+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:09:07.514+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:09:07.554+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.780 seconds
+[2024-11-22T15:09:38.449+0000] {processor.py:186} INFO - Started process (PID=91) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:09:38.452+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:09:38.459+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:09:38.458+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:09:38.955+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:09:38.997+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:09:38.996+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:09:39.040+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:09:39.040+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:09:39.080+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.644 seconds
+[2024-11-22T15:10:09.764+0000] {processor.py:186} INFO - Started process (PID=95) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:10:09.766+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:10:09.771+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:10:09.770+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:10:10.170+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:10:10.211+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:10:10.211+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:10:10.256+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:10:10.256+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:10:10.297+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.545 seconds
+[2024-11-22T15:10:40.786+0000] {processor.py:186} INFO - Started process (PID=99) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:10:40.788+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:10:40.792+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:10:40.792+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:10:41.232+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:10:41.275+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:10:41.274+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:10:41.318+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:10:41.318+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:10:41.363+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.590 seconds
+[2024-11-22T15:11:11.997+0000] {processor.py:186} INFO - Started process (PID=103) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:11:11.999+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:11:12.004+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:11:12.003+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:11:12.404+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:11:12.444+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:11:12.444+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:11:12.489+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:11:12.488+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:11:12.527+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.542 seconds
+[2024-11-22T15:11:43.331+0000] {processor.py:186} INFO - Started process (PID=107) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:11:43.333+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:11:43.338+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:11:43.337+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:11:43.746+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:11:43.787+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:11:43.787+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:11:43.831+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:11:43.830+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:11:43.872+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.555 seconds
+[2024-11-22T15:12:14.475+0000] {processor.py:186} INFO - Started process (PID=111) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:12:14.477+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:12:14.481+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:12:14.480+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:12:14.880+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:12:14.922+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:12:14.921+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:12:14.967+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:12:14.967+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:12:15.010+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.547 seconds
+[2024-11-22T15:12:45.665+0000] {processor.py:186} INFO - Started process (PID=115) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:12:45.667+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:12:45.672+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:12:45.671+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:12:46.124+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:12:46.172+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:12:46.171+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:12:46.234+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:12:46.234+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:12:46.282+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.633 seconds
+[2024-11-22T15:13:16.521+0000] {processor.py:186} INFO - Started process (PID=119) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:13:16.523+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:13:16.528+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:13:16.528+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:13:16.929+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:13:16.969+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:13:16.969+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:13:17.014+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:13:17.014+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:13:17.053+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.545 seconds
+[2024-11-22T15:13:47.505+0000] {processor.py:186} INFO - Started process (PID=123) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:13:47.507+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:13:47.511+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:13:47.510+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:13:47.905+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:13:47.948+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:13:47.948+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:13:47.995+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:13:47.994+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:13:48.036+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.543 seconds
+[2024-11-22T15:14:18.203+0000] {processor.py:186} INFO - Started process (PID=127) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:14:18.206+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:14:18.210+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:14:18.210+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:14:18.642+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:14:18.689+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:14:18.689+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:14:18.739+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:14:18.739+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:14:18.777+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.587 seconds
+[2024-11-22T15:14:49.497+0000] {processor.py:186} INFO - Started process (PID=131) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:14:49.499+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:14:49.505+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:14:49.504+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:14:49.940+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:14:49.983+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:14:49.982+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:14:50.034+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:14:50.033+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:14:50.080+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.597 seconds
+[2024-11-22T15:15:20.733+0000] {processor.py:186} INFO - Started process (PID=135) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:15:20.735+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:15:20.740+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:15:20.739+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:15:21.165+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:15:21.206+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:15:21.206+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:15:21.252+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:15:21.252+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:15:21.294+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.573 seconds
+[2024-11-22T15:15:51.981+0000] {processor.py:186} INFO - Started process (PID=139) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:15:51.983+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:15:51.989+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:15:51.988+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:15:52.403+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:15:52.445+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:15:52.444+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:15:52.488+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:15:52.487+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:15:52.533+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.567 seconds
+[2024-11-22T15:16:22.961+0000] {processor.py:186} INFO - Started process (PID=143) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:16:22.963+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:16:22.968+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:16:22.967+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:16:23.364+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:16:23.405+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:16:23.404+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:16:23.447+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:16:23.447+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:16:23.490+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.541 seconds
+[2024-11-22T15:16:54.262+0000] {processor.py:186} INFO - Started process (PID=147) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:16:54.265+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:16:54.272+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:16:54.271+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:16:54.728+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:16:54.771+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:16:54.771+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:16:54.817+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:16:54.817+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:16:54.863+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.618 seconds
+[2024-11-22T15:17:25.552+0000] {processor.py:186} INFO - Started process (PID=151) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:17:25.555+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:17:25.560+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:17:25.559+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:17:25.949+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:17:25.990+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:17:25.989+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:17:26.035+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:17:26.035+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:17:26.079+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.541 seconds
+[2024-11-22T15:17:56.531+0000] {processor.py:186} INFO - Started process (PID=155) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:17:56.533+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:17:56.538+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:17:56.537+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:17:56.945+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:17:56.989+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:17:56.988+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:17:57.037+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:17:57.037+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:17:57.082+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.563 seconds
+[2024-11-22T15:18:27.814+0000] {processor.py:186} INFO - Started process (PID=159) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:18:27.817+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:18:27.823+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:18:27.822+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:18:28.402+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:18:28.471+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:18:28.470+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:18:28.527+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:18:28.527+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:18:28.570+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.771 seconds
+[2024-11-22T15:18:58.943+0000] {processor.py:186} INFO - Started process (PID=163) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:18:58.945+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:18:58.950+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:18:58.949+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:18:59.369+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:18:59.431+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:18:59.430+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:18:59.489+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:18:59.488+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:18:59.542+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.612 seconds
+[2024-11-22T15:19:30.247+0000] {processor.py:186} INFO - Started process (PID=167) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:19:30.249+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:19:30.255+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:19:30.254+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:19:30.675+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:19:30.717+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:19:30.717+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:19:30.766+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:19:30.766+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:19:30.811+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.580 seconds
+[2024-11-22T15:20:01.473+0000] {processor.py:186} INFO - Started process (PID=171) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:20:01.475+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:20:01.479+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:20:01.479+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:20:01.898+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:20:01.946+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:20:01.945+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:20:01.990+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:20:01.990+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:20:02.030+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.569 seconds
+[2024-11-22T15:20:33.249+0000] {processor.py:186} INFO - Started process (PID=175) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:20:33.251+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:20:33.256+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:20:33.255+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:20:33.655+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:20:33.696+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:20:33.695+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:20:33.740+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:20:33.740+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:20:33.782+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.545 seconds
+[2024-11-22T15:21:04.443+0000] {processor.py:186} INFO - Started process (PID=179) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:21:04.445+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:21:04.450+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:21:04.449+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:21:04.861+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:21:04.905+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:21:04.904+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:21:04.956+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:21:04.956+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:21:04.998+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.570 seconds
+[2024-11-22T15:21:35.474+0000] {processor.py:186} INFO - Started process (PID=183) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:21:35.475+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:21:35.480+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:21:35.479+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:21:35.875+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:21:35.916+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:21:35.915+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:21:35.960+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:21:35.960+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:21:36.004+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.542 seconds
+[2024-11-22T15:22:06.263+0000] {processor.py:186} INFO - Started process (PID=187) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:22:06.266+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:22:06.271+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:22:06.270+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:22:06.676+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:22:06.725+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:22:06.725+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:22:06.775+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:22:06.774+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:22:06.812+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.566 seconds
+[2024-11-22T15:22:37.507+0000] {processor.py:186} INFO - Started process (PID=191) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:22:37.509+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:22:37.514+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:22:37.513+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:22:37.916+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:22:37.961+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:22:37.961+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:22:38.010+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:22:38.010+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:22:38.052+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.557 seconds
+[2024-11-22T15:23:08.815+0000] {processor.py:186} INFO - Started process (PID=195) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:23:08.818+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:23:08.823+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:23:08.822+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:23:09.407+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:23:09.448+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:23:09.448+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:23:09.500+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:23:09.500+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:23:09.559+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.757 seconds
+[2024-11-22T15:23:40.183+0000] {processor.py:186} INFO - Started process (PID=199) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:23:40.185+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:23:40.192+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:23:40.191+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:23:40.611+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:23:40.657+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:23:40.657+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:23:40.704+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:23:40.704+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:23:40.749+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.585 seconds
+[2024-11-22T15:24:11.083+0000] {processor.py:186} INFO - Started process (PID=203) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:24:11.085+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:24:11.090+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:24:11.089+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:24:11.505+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:24:11.547+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:24:11.546+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:24:11.595+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:24:11.594+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:24:11.636+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.564 seconds
+[2024-11-22T15:24:42.397+0000] {processor.py:186} INFO - Started process (PID=207) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:24:42.399+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:24:42.407+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:24:42.406+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:24:43.168+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:24:43.248+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:24:43.247+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:24:43.325+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:24:43.325+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:24:43.393+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 1.016 seconds
+[2024-11-22T15:25:13.540+0000] {processor.py:186} INFO - Started process (PID=211) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:25:13.542+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:25:13.548+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:25:13.547+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:25:14.276+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:25:14.327+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:25:14.326+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:25:14.384+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:25:14.384+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:25:14.431+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.910 seconds
+[2024-11-22T15:25:45.119+0000] {processor.py:186} INFO - Started process (PID=215) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:25:45.121+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:25:45.126+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:25:45.125+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:25:45.668+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:25:45.741+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:25:45.741+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:25:45.820+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:25:45.820+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:25:45.934+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.828 seconds
+[2024-11-22T15:26:16.586+0000] {processor.py:186} INFO - Started process (PID=219) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:26:16.588+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:26:16.592+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:26:16.592+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:26:17.029+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:26:17.070+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:26:17.070+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:26:17.116+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:26:17.116+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:26:17.157+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.586 seconds
+[2024-11-22T15:26:48.494+0000] {processor.py:186} INFO - Started process (PID=223) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:26:48.497+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:26:48.506+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:26:48.504+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:26:49.197+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:26:49.256+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:26:49.256+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:26:49.306+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:26:49.306+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:26:49.360+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.885 seconds
+[2024-11-22T15:27:20.341+0000] {processor.py:186} INFO - Started process (PID=227) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:27:20.343+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:27:20.350+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:27:20.349+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:27:20.806+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:27:20.861+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:27:20.860+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:27:20.968+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:27:20.968+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:27:21.025+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.697 seconds
+[2024-11-22T15:27:51.929+0000] {processor.py:186} INFO - Started process (PID=231) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:27:51.931+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:27:51.936+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:27:51.935+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:27:52.552+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:27:52.667+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:27:52.666+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:27:52.786+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:27:52.785+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:27:52.852+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.936 seconds
+[2024-11-22T15:28:23.215+0000] {processor.py:186} INFO - Started process (PID=235) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:28:23.217+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:28:23.223+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:28:23.222+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:28:23.803+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:28:23.856+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:28:23.855+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:28:23.911+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:28:23.910+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:28:23.969+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.770 seconds
+[2024-11-22T15:28:54.197+0000] {processor.py:186} INFO - Started process (PID=239) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:28:54.199+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:28:54.204+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:28:54.204+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:28:54.667+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:28:54.714+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:28:54.714+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:28:54.760+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:28:54.760+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:28:54.803+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.622 seconds
+[2024-11-22T15:29:25.257+0000] {processor.py:186} INFO - Started process (PID=243) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:29:25.259+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:29:25.266+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:29:25.263+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:29:25.690+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:29:25.761+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:29:25.761+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:29:25.822+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:29:25.822+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:29:25.869+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.624 seconds
+[2024-11-22T15:29:56.380+0000] {processor.py:186} INFO - Started process (PID=247) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:29:56.382+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:29:56.389+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:29:56.388+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:29:57.008+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:29:57.053+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:29:57.053+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:29:57.107+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:29:57.106+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:29:57.150+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.786 seconds
+[2024-11-22T15:30:27.561+0000] {processor.py:186} INFO - Started process (PID=251) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:30:27.565+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:30:27.573+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:30:27.572+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:30:28.258+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:30:28.304+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:30:28.303+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:30:28.368+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:30:28.367+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:30:28.422+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.882 seconds
+[2024-11-22T15:30:58.880+0000] {processor.py:186} INFO - Started process (PID=255) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:30:58.881+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:30:58.886+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:30:58.885+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:30:59.480+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:30:59.529+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:30:59.529+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:30:59.590+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:30:59.590+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:30:59.639+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.771 seconds
+[2024-11-22T15:31:30.142+0000] {processor.py:186} INFO - Started process (PID=259) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:31:30.144+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:31:30.170+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:31:30.160+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:31:30.897+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:31:30.975+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:31:30.975+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:31:31.048+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:31:31.048+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:31:31.092+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.981 seconds
+[2024-11-22T15:32:01.652+0000] {processor.py:186} INFO - Started process (PID=263) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:32:01.654+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:32:01.659+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:32:01.658+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:32:02.099+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:32:02.143+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:32:02.143+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:32:02.223+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:32:02.222+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:32:02.294+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.657 seconds
+[2024-11-22T15:32:33.122+0000] {processor.py:186} INFO - Started process (PID=267) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:32:33.126+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:32:33.136+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:32:33.135+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:32:33.597+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:32:33.640+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:32:33.640+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:32:33.700+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:32:33.699+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:32:33.747+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.648 seconds
+[2024-11-22T15:33:07.587+0000] {processor.py:186} INFO - Started process (PID=271) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T15:33:07.590+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T15:33:07.595+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:33:07.594+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T15:33:08.040+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T15:33:08.114+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:33:08.113+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T15:33:08.504+0000] {logging_mixin.py:190} INFO - [2024-11-22T15:33:08.504+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 12:00:00+00:00, run_after=2024-11-23 00:00:00+00:00
+[2024-11-22T15:33:08.544+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.972 seconds
+[2024-11-22T16:00:24.424+0000] {processor.py:186} INFO - Started process (PID=55) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:00:24.428+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:00:24.433+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:00:24.433+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:00:25.534+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:00:25.792+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:00:25.792+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:00:25.839+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:00:25.839+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:30:00+00:00, run_after=2024-11-22 16:00:00+00:00
+[2024-11-22T16:00:25.900+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 1.493 seconds
+[2024-11-22T16:00:56.634+0000] {processor.py:186} INFO - Started process (PID=102) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:00:56.636+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:00:56.645+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:00:56.644+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:00:57.770+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:00:57.815+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:00:57.815+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:00:57.863+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:00:57.863+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 16:00:00+00:00, run_after=2024-11-22 16:30:00+00:00
+[2024-11-22T16:00:57.926+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 1.310 seconds
+[2024-11-22T16:01:28.800+0000] {processor.py:186} INFO - Started process (PID=129) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:01:28.802+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:01:28.809+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:01:28.808+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:01:30.784+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:01:30.853+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:01:30.853+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:01:30.936+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:01:30.936+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 16:00:00+00:00, run_after=2024-11-22 16:30:00+00:00
+[2024-11-22T16:01:31.005+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 2.219 seconds
+[2024-11-22T16:02:01.190+0000] {processor.py:186} INFO - Started process (PID=166) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:02:01.193+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:02:01.210+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:02:01.209+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:02:01.975+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:02:02.029+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:02:02.028+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:02:02.077+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:02:02.076+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 16:00:00+00:00, run_after=2024-11-22 16:30:00+00:00
+[2024-11-22T16:02:02.120+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.953 seconds
+[2024-11-22T16:02:32.291+0000] {processor.py:186} INFO - Started process (PID=217) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:02:32.293+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:02:32.298+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:02:32.298+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:02:33.406+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:02:33.471+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:02:33.470+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:02:33.532+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:02:33.531+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 16:00:00+00:00, run_after=2024-11-22 16:30:00+00:00
+[2024-11-22T16:02:33.578+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 1.298 seconds
+[2024-11-22T16:03:03.997+0000] {processor.py:186} INFO - Started process (PID=263) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:03:03.999+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:03:04.004+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:03:04.003+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:03:05.381+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:03:05.451+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:03:05.451+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:03:05.500+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:03:05.499+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 16:00:00+00:00, run_after=2024-11-22 16:30:00+00:00
+[2024-11-22T16:03:05.559+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 1.573 seconds
+[2024-11-22T16:03:36.180+0000] {processor.py:186} INFO - Started process (PID=277) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:03:36.183+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:03:36.189+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:03:36.188+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:03:37.066+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:03:37.102+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:03:37.101+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:03:37.145+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:03:37.145+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 16:00:00+00:00, run_after=2024-11-22 16:30:00+00:00
+[2024-11-22T16:03:37.183+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 1.016 seconds
+[2024-11-22T16:04:07.753+0000] {processor.py:186} INFO - Started process (PID=281) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:04:07.755+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:04:07.761+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:04:07.760+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:04:08.294+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:04:08.355+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:04:08.355+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:04:08.409+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:04:08.409+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 16:00:00+00:00, run_after=2024-11-22 16:30:00+00:00
+[2024-11-22T16:04:08.455+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.720 seconds
+[2024-11-22T16:04:39.533+0000] {processor.py:186} INFO - Started process (PID=285) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:04:39.536+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:04:39.543+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:04:39.542+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:04:39.985+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:04:40.052+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:04:40.052+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:04:40.119+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:04:40.119+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 16:00:00+00:00, run_after=2024-11-22 16:30:00+00:00
+[2024-11-22T16:04:40.176+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.659 seconds
+[2024-11-22T16:05:10.494+0000] {processor.py:186} INFO - Started process (PID=289) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:05:10.496+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:05:10.503+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:05:10.502+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:05:10.923+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:05:10.991+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:05:10.990+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:05:11.062+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:05:11.061+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 16:00:00+00:00, run_after=2024-11-22 16:30:00+00:00
+[2024-11-22T16:05:11.104+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.625 seconds
+[2024-11-22T16:05:41.419+0000] {processor.py:186} INFO - Started process (PID=293) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:05:41.423+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:05:41.429+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:05:41.428+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:05:41.967+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:05:42.040+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:05:42.040+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:05:42.098+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:05:42.098+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 16:00:00+00:00, run_after=2024-11-22 16:30:00+00:00
+[2024-11-22T16:05:42.144+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.743 seconds
+[2024-11-22T16:09:18.506+0000] {processor.py:186} INFO - Started process (PID=57) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:09:18.509+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:09:18.519+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:09:18.518+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:09:19.429+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:09:19.688+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:09:19.687+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:09:19.732+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:09:19.731+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:09:19.795+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 1.308 seconds
+[2024-11-22T16:09:50.528+0000] {processor.py:186} INFO - Started process (PID=71) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:09:50.531+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:09:50.538+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:09:50.537+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:09:51.800+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:09:51.852+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:09:51.852+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:09:51.969+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:09:51.969+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:09:52.065+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 1.558 seconds
+[2024-11-22T16:10:22.956+0000] {processor.py:186} INFO - Started process (PID=75) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:10:22.958+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:10:22.965+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:10:22.964+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:10:23.677+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:10:23.720+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:10:23.720+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:10:23.767+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:10:23.767+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:10:23.807+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.865 seconds
+[2024-11-22T16:10:54.377+0000] {processor.py:186} INFO - Started process (PID=79) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:10:54.379+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:10:54.383+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:10:54.383+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:10:55.007+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:10:55.045+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:10:55.045+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:10:55.086+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:10:55.086+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:10:55.125+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.759 seconds
+[2024-11-22T16:11:25.701+0000] {processor.py:186} INFO - Started process (PID=83) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:11:25.703+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:11:25.708+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:11:25.707+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:11:26.347+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:11:26.383+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:11:26.383+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:11:26.422+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:11:26.422+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:11:26.458+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.768 seconds
+[2024-11-22T16:11:56.953+0000] {processor.py:186} INFO - Started process (PID=87) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:11:56.955+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:11:56.960+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:11:56.959+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:11:57.564+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:11:57.600+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:11:57.599+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:11:57.640+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:11:57.639+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:11:57.679+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.738 seconds
+[2024-11-22T16:12:28.145+0000] {processor.py:186} INFO - Started process (PID=91) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:12:28.147+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:12:28.151+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:12:28.150+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:12:28.749+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:12:28.788+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:12:28.787+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:12:28.826+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:12:28.826+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:12:28.864+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.731 seconds
+[2024-11-22T16:12:59.017+0000] {processor.py:186} INFO - Started process (PID=95) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:12:59.019+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:12:59.023+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:12:59.023+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:12:59.734+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:12:59.780+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:12:59.779+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:12:59.821+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:12:59.821+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:12:59.859+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.855 seconds
+[2024-11-22T16:13:30.010+0000] {processor.py:186} INFO - Started process (PID=99) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:13:30.012+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:13:30.017+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:13:30.016+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:13:30.721+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:13:30.766+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:13:30.766+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:13:30.827+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:13:30.826+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:13:30.867+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.869 seconds
+[2024-11-22T16:14:01.589+0000] {processor.py:186} INFO - Started process (PID=103) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:14:01.591+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:14:01.598+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:14:01.596+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:14:02.127+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:14:02.186+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:14:02.185+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:14:02.249+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:14:02.249+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:14:02.311+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.736 seconds
+[2024-11-22T16:14:32.540+0000] {processor.py:186} INFO - Started process (PID=107) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:14:32.543+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:14:32.552+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:14:32.551+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:14:33.455+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:14:33.548+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:14:33.547+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:14:33.663+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:14:33.662+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:14:33.743+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 1.219 seconds
+[2024-11-22T16:15:03.881+0000] {processor.py:186} INFO - Started process (PID=111) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:15:03.883+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:15:03.888+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:15:03.888+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:15:04.332+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:15:04.376+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:15:04.376+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:15:04.429+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:15:04.428+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:15:04.472+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.605 seconds
+[2024-11-22T16:15:35.232+0000] {processor.py:186} INFO - Started process (PID=115) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:15:35.234+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:15:35.241+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:15:35.240+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:15:35.785+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:15:35.829+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:15:35.829+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:15:35.877+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:15:35.876+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:15:35.924+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.707 seconds
+[2024-11-22T16:16:06.580+0000] {processor.py:186} INFO - Started process (PID=119) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:16:06.582+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:16:06.588+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:16:06.587+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:16:07.019+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:16:07.060+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:16:07.060+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:16:07.105+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:16:07.104+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:16:07.148+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.580 seconds
+[2024-11-22T16:16:37.421+0000] {processor.py:186} INFO - Started process (PID=123) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:16:37.423+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:16:37.429+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:16:37.428+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:16:37.947+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:16:38.004+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:16:38.003+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:16:38.085+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:16:38.084+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:16:38.140+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.735 seconds
+[2024-11-22T16:17:08.883+0000] {processor.py:186} INFO - Started process (PID=127) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:17:08.886+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:17:08.894+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:17:08.893+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:17:09.419+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:17:09.460+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:17:09.459+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:17:09.507+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:17:09.506+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:17:09.550+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.685 seconds
+[2024-11-22T16:17:40.210+0000] {processor.py:186} INFO - Started process (PID=131) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:17:40.212+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:17:40.218+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:17:40.217+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:17:40.626+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:17:40.668+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:17:40.667+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:17:40.712+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:17:40.712+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:17:40.751+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.558 seconds
+[2024-11-22T16:17:56.122+0000] {processor.py:186} INFO - Started process (PID=132) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:17:56.124+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:17:56.130+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:17:56.129+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:17:56.571+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:17:56.616+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:17:56.615+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:17:56.661+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:17:56.660+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:17:56.717+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.608 seconds
+[2024-11-22T16:17:57.805+0000] {processor.py:186} INFO - Started process (PID=133) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:17:57.807+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:17:57.813+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:17:57.812+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:17:58.352+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:17:58.403+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:17:58.402+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:17:58.450+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:17:58.450+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:17:58.508+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.718 seconds
+[2024-11-22T16:18:29.047+0000] {processor.py:186} INFO - Started process (PID=137) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:18:29.049+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:18:29.054+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:18:29.053+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:18:29.477+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:18:29.536+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:18:29.535+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:18:29.617+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:18:29.616+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:18:29.685+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.651 seconds
+[2024-11-22T16:19:00.079+0000] {processor.py:186} INFO - Started process (PID=141) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:19:00.081+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:19:00.086+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:19:00.085+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:19:00.504+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:19:00.553+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:19:00.553+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:19:00.598+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:19:00.597+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:19:00.636+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.570 seconds
+[2024-11-22T16:19:31.198+0000] {processor.py:186} INFO - Started process (PID=145) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:19:31.201+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:19:31.208+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:19:31.207+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:19:31.691+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:19:31.744+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:19:31.743+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:19:31.797+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:19:31.797+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:19:31.840+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.659 seconds
+[2024-11-22T16:20:01.958+0000] {processor.py:186} INFO - Started process (PID=149) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:20:01.960+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:20:01.965+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:20:01.964+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:20:02.381+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:20:02.430+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:20:02.430+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:20:02.521+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:20:02.521+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:20:02.582+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.636 seconds
+[2024-11-22T16:20:32.861+0000] {processor.py:186} INFO - Started process (PID=153) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:20:32.863+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:20:32.869+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:20:32.868+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:20:33.407+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:20:33.454+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:20:33.454+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:20:33.512+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:20:33.511+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:20:33.569+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.724 seconds
+[2024-11-22T16:21:03.696+0000] {processor.py:186} INFO - Started process (PID=157) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:21:03.699+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:21:03.705+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:21:03.705+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:21:04.114+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:21:04.161+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:21:04.160+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:21:04.214+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:21:04.213+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:21:04.270+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.591 seconds
+[2024-11-22T16:21:34.719+0000] {processor.py:186} INFO - Started process (PID=161) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:21:34.721+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:21:34.731+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:21:34.729+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:21:35.327+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:21:35.373+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:21:35.373+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:21:35.419+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:21:35.419+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:21:35.460+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.763 seconds
+[2024-11-22T16:22:06.165+0000] {processor.py:186} INFO - Started process (PID=165) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:22:06.168+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:22:06.174+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:22:06.173+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:22:06.693+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:22:06.760+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:22:06.760+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:22:06.838+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:22:06.837+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:22:06.898+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.747 seconds
+[2024-11-22T16:22:37.270+0000] {processor.py:186} INFO - Started process (PID=169) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:22:37.272+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:22:37.277+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:22:37.277+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:22:37.687+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:22:37.730+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:22:37.729+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:22:37.777+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:22:37.777+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:22:37.821+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.565 seconds
+[2024-11-22T16:23:08.745+0000] {processor.py:186} INFO - Started process (PID=173) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:23:08.748+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:23:08.756+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:23:08.755+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:23:09.303+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:23:09.362+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:23:09.362+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:23:09.415+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:23:09.414+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:23:09.467+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.736 seconds
+[2024-11-22T16:23:39.766+0000] {processor.py:186} INFO - Started process (PID=177) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:23:39.772+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:23:39.783+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:23:39.782+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:23:40.416+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:23:40.464+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:23:40.463+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:23:40.529+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:23:40.529+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:23:40.577+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.840 seconds
+[2024-11-22T16:24:10.697+0000] {processor.py:186} INFO - Started process (PID=181) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:24:10.699+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:24:10.705+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:24:10.704+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:24:11.143+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:24:11.186+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:24:11.185+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:24:11.246+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:24:11.246+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:24:11.288+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.607 seconds
+[2024-11-22T16:24:41.577+0000] {processor.py:186} INFO - Started process (PID=185) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:24:41.579+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:24:41.585+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:24:41.584+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:24:42.015+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:24:42.056+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:24:42.056+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:24:42.128+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:24:42.127+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:24:42.169+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.607 seconds
+[2024-11-22T16:25:12.966+0000] {processor.py:186} INFO - Started process (PID=189) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:25:12.968+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:25:12.973+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:25:12.973+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:25:13.389+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:25:13.434+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:25:13.434+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:25:13.485+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:25:13.485+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:25:13.532+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.579 seconds
+[2024-11-22T16:25:43.914+0000] {processor.py:186} INFO - Started process (PID=193) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:25:43.915+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:25:43.920+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:25:43.920+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:25:44.338+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:25:44.397+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:25:44.397+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:25:44.454+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:25:44.454+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:25:44.507+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.613 seconds
+[2024-11-22T16:26:15.053+0000] {processor.py:186} INFO - Started process (PID=197) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:26:15.055+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:26:15.063+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:26:15.062+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:26:15.511+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:26:15.572+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:26:15.572+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:26:15.626+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:26:15.626+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:26:15.670+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.634 seconds
+[2024-11-22T16:26:46.141+0000] {processor.py:186} INFO - Started process (PID=201) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:26:46.143+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:26:46.152+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:26:46.151+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:26:46.772+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:26:46.823+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:26:46.823+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:26:46.881+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:26:46.881+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:26:46.929+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.805 seconds
+[2024-11-22T16:27:17.028+0000] {processor.py:186} INFO - Started process (PID=205) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:27:17.030+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:27:17.035+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:27:17.035+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:27:17.433+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:27:17.473+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:27:17.473+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:27:17.520+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:27:17.520+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:27:17.559+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.542 seconds
+[2024-11-22T16:27:47.987+0000] {processor.py:186} INFO - Started process (PID=209) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:27:47.989+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:27:47.995+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:27:47.994+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:27:48.436+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:27:48.484+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:27:48.483+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:27:48.540+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:27:48.539+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:27:48.585+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.611 seconds
+[2024-11-22T16:28:19.101+0000] {processor.py:186} INFO - Started process (PID=213) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:28:19.103+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:28:19.109+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:28:19.108+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:28:19.543+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:28:19.589+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:28:19.588+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:28:19.639+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:28:19.639+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:28:19.688+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.599 seconds
+[2024-11-22T16:28:50.483+0000] {processor.py:186} INFO - Started process (PID=217) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:28:50.486+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:28:50.493+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:28:50.492+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:28:50.926+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:28:50.973+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:28:50.973+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:28:51.026+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:28:51.026+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:28:51.066+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.599 seconds
+[2024-11-22T16:29:21.903+0000] {processor.py:186} INFO - Started process (PID=221) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:29:21.905+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:29:21.913+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:29:21.911+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:29:22.370+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:29:22.415+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:29:22.414+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:29:22.463+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:29:22.463+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:29:22.511+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.623 seconds
+[2024-11-22T16:29:52.824+0000] {processor.py:186} INFO - Started process (PID=225) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:29:52.827+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:29:52.835+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:29:52.834+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:29:53.344+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:29:53.395+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:29:53.394+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:29:53.453+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:29:53.452+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:29:53.497+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.688 seconds
+[2024-11-22T16:30:23.737+0000] {processor.py:186} INFO - Started process (PID=229) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:30:23.739+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:30:23.744+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:30:23.743+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:30:24.146+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:30:24.193+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:30:24.192+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:30:24.239+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:30:24.238+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:30:24.282+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.557 seconds
+[2024-11-22T16:30:54.806+0000] {processor.py:186} INFO - Started process (PID=233) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:30:54.808+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:30:54.813+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:30:54.812+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:30:55.251+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:30:55.294+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:30:55.293+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:30:55.347+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:30:55.346+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:30:55.387+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.594 seconds
+[2024-11-22T16:31:25.740+0000] {processor.py:186} INFO - Started process (PID=237) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:31:25.742+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:31:25.747+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:31:25.746+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:31:26.168+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:31:26.215+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:31:26.214+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:31:26.262+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:31:26.261+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:31:26.303+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.575 seconds
+[2024-11-22T16:31:56.653+0000] {processor.py:186} INFO - Started process (PID=241) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:31:56.656+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:31:56.662+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:31:56.661+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:31:57.223+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:31:57.286+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:31:57.286+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:31:57.337+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:31:57.336+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:31:57.398+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.758 seconds
+[2024-11-22T16:32:27.844+0000] {processor.py:186} INFO - Started process (PID=245) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:32:27.847+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:32:27.858+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:32:27.855+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:32:28.414+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:32:28.467+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:32:28.466+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:32:28.524+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:32:28.523+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:32:28.577+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.750 seconds
+[2024-11-22T16:32:58.743+0000] {processor.py:186} INFO - Started process (PID=249) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:32:58.745+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:32:58.750+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:32:58.750+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:32:59.147+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:32:59.191+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:32:59.191+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:32:59.236+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:32:59.235+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:32:59.278+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.548 seconds
+[2024-11-22T16:33:29.653+0000] {processor.py:186} INFO - Started process (PID=253) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:33:29.655+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:33:29.660+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:33:29.660+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:33:30.077+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:33:30.136+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:33:30.136+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:33:30.218+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:33:30.217+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:33:30.262+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.623 seconds
+[2024-11-22T16:34:00.364+0000] {processor.py:186} INFO - Started process (PID=257) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:34:00.366+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:34:00.371+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:34:00.370+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:34:00.778+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:34:00.820+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:34:00.820+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:34:00.865+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:34:00.865+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:34:00.907+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.556 seconds
+[2024-11-22T16:34:31.252+0000] {processor.py:186} INFO - Started process (PID=261) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:34:31.254+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:34:31.260+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:34:31.259+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:34:31.674+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:34:31.718+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:34:31.717+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:34:31.769+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:34:31.769+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:34:31.815+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.578 seconds
+[2024-11-22T16:35:01.914+0000] {processor.py:186} INFO - Started process (PID=265) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:35:01.916+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:35:01.923+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:35:01.922+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:35:02.336+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:35:02.382+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:35:02.382+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:35:02.430+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:35:02.429+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:35:02.472+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.571 seconds
+[2024-11-22T16:35:32.875+0000] {processor.py:186} INFO - Started process (PID=269) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:35:32.877+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:35:32.882+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:35:32.882+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:35:33.298+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:35:33.340+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:35:33.340+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:35:33.385+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:35:33.385+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:35:33.427+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.564 seconds
+[2024-11-22T16:36:03.893+0000] {processor.py:186} INFO - Started process (PID=273) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:36:03.895+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:36:03.902+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:36:03.901+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:36:04.356+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:36:04.408+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:36:04.407+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:36:04.457+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:36:04.456+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:36:04.498+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.619 seconds
+[2024-11-22T16:37:45.525+0000] {processor.py:186} INFO - Started process (PID=53) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:37:45.528+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:37:45.535+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:37:45.534+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:37:47.298+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:37:47.376+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:37:47.376+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:37:47.452+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:37:47.452+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:37:47.536+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 2.028 seconds
+[2024-11-22T16:38:18.220+0000] {processor.py:186} INFO - Started process (PID=67) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:38:18.223+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:38:18.228+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:38:18.227+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:38:19.058+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:38:19.101+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:38:19.100+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:38:19.147+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:38:19.146+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:38:19.192+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.987 seconds
+[2024-11-22T16:38:49.701+0000] {processor.py:186} INFO - Started process (PID=71) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:38:49.704+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:38:49.710+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:38:49.709+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:38:50.437+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:38:50.485+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:38:50.484+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:38:50.536+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:38:50.536+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:38:50.586+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.897 seconds
+[2024-11-22T16:39:21.098+0000] {processor.py:186} INFO - Started process (PID=75) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:39:21.101+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:39:21.107+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:39:21.106+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:39:21.826+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:39:21.866+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:39:21.865+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:39:21.908+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:39:21.907+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:39:21.948+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.866 seconds
+[2024-11-22T16:39:52.228+0000] {processor.py:186} INFO - Started process (PID=79) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:39:52.230+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:39:52.235+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:39:52.234+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:39:52.972+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:39:53.025+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:39:53.025+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:39:53.082+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:39:53.081+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:39:53.126+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.910 seconds
+[2024-11-22T16:40:23.546+0000] {processor.py:186} INFO - Started process (PID=83) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:40:23.548+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:40:23.554+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:40:23.553+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:40:24.374+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:40:24.416+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:40:24.415+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:40:24.459+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:40:24.459+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:40:24.500+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.970 seconds
+[2024-11-22T16:40:54.748+0000] {processor.py:186} INFO - Started process (PID=87) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:40:54.750+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:40:54.758+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:40:54.757+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:40:55.510+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:40:55.549+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:40:55.549+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:40:55.591+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:40:55.590+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:40:55.630+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.900 seconds
+[2024-11-22T16:41:26.056+0000] {processor.py:186} INFO - Started process (PID=91) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:41:26.058+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:41:26.063+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:41:26.062+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:41:26.715+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:41:26.757+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:41:26.757+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:41:26.800+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:41:26.799+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:41:26.839+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.795 seconds
+[2024-11-22T16:41:57.093+0000] {processor.py:186} INFO - Started process (PID=95) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:41:57.095+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:41:57.099+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:41:57.099+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:41:57.735+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:41:57.780+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:41:57.779+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:41:57.836+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:41:57.836+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:41:57.887+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.806 seconds
+[2024-11-22T16:42:28.287+0000] {processor.py:186} INFO - Started process (PID=99) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:42:28.289+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:42:28.295+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:42:28.294+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:42:28.752+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:42:28.804+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:42:28.804+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:42:28.859+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:42:28.859+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:42:28.907+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.634 seconds
+[2024-11-22T16:42:59.248+0000] {processor.py:186} INFO - Started process (PID=103) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:42:59.250+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:42:59.258+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:42:59.256+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:42:59.714+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:42:59.764+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:42:59.764+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:42:59.817+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:42:59.817+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:42:59.862+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.627 seconds
+[2024-11-22T16:43:30.272+0000] {processor.py:186} INFO - Started process (PID=107) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:43:30.275+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:43:30.282+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:43:30.281+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:43:30.731+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:43:30.778+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:43:30.777+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:43:30.837+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:43:30.837+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:43:30.929+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.669 seconds
+[2024-11-22T16:44:01.548+0000] {processor.py:186} INFO - Started process (PID=111) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:44:01.554+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:44:01.564+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:44:01.563+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:44:02.394+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:44:02.448+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:44:02.447+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:44:02.499+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:44:02.498+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:44:02.543+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 1.025 seconds
+[2024-11-22T16:44:32.648+0000] {processor.py:186} INFO - Started process (PID=115) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:44:32.650+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:44:32.656+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:44:32.655+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:44:33.091+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:44:33.140+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:44:33.140+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:44:33.188+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:44:33.188+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:44:33.230+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.597 seconds
+[2024-11-22T16:45:03.589+0000] {processor.py:186} INFO - Started process (PID=119) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:45:03.591+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:45:03.596+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:45:03.595+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:45:04.011+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:45:04.052+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:45:04.052+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:45:04.099+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:45:04.098+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:45:04.139+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.564 seconds
+[2024-11-22T16:45:34.520+0000] {processor.py:186} INFO - Started process (PID=123) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:45:34.522+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:45:34.527+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:45:34.526+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:45:34.963+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:45:35.009+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:45:35.009+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:45:35.057+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:45:35.056+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:45:35.102+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.595 seconds
+[2024-11-22T16:46:05.952+0000] {processor.py:186} INFO - Started process (PID=127) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:46:05.954+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:46:05.962+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:46:05.961+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:46:06.631+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:46:06.691+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:46:06.690+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:46:06.761+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:46:06.760+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:46:06.818+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.883 seconds
+[2024-11-22T16:46:37.015+0000] {processor.py:186} INFO - Started process (PID=131) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:46:37.017+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:46:37.023+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:46:37.022+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:46:37.452+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:46:37.496+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:46:37.496+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:46:37.544+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:46:37.543+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:46:37.586+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.583 seconds
+[2024-11-22T16:47:07.933+0000] {processor.py:186} INFO - Started process (PID=135) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:47:07.935+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:47:07.941+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:47:07.940+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:47:08.399+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:47:08.444+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:47:08.444+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:47:08.502+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:47:08.501+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:47:08.542+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.623 seconds
+[2024-11-22T16:47:38.843+0000] {processor.py:186} INFO - Started process (PID=139) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:47:38.845+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:47:38.850+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:47:38.849+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:47:39.278+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:47:39.325+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:47:39.324+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:47:39.373+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:47:39.373+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:47:39.414+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.585 seconds
+[2024-11-22T16:48:09.736+0000] {processor.py:186} INFO - Started process (PID=143) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:48:09.739+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:48:09.744+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:48:09.743+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:48:10.257+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:48:10.317+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:48:10.316+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:48:10.374+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:48:10.374+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:48:10.428+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.706 seconds
+[2024-11-22T16:48:40.636+0000] {processor.py:186} INFO - Started process (PID=147) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:48:40.638+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:48:40.643+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:48:40.642+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:48:41.126+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:48:41.178+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:48:41.177+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:48:41.228+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:48:41.227+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:48:41.272+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.651 seconds
+[2024-11-22T16:49:12.097+0000] {processor.py:186} INFO - Started process (PID=151) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:49:12.099+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:49:12.105+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:49:12.104+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:49:12.554+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:49:12.600+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:49:12.599+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:49:12.657+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:49:12.656+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:49:12.718+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.638 seconds
+[2024-11-22T16:49:43.265+0000] {processor.py:186} INFO - Started process (PID=155) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:49:43.267+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:49:43.273+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:49:43.272+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:49:43.688+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:49:43.737+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:49:43.736+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:49:43.787+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:49:43.787+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:49:43.827+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.575 seconds
+[2024-11-22T16:50:14.285+0000] {processor.py:186} INFO - Started process (PID=159) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:50:14.288+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:50:14.294+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:50:14.293+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:50:15.098+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:50:15.311+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:50:15.311+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:50:15.411+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:50:15.410+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:50:15.478+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 1.207 seconds
+[2024-11-22T16:50:46.031+0000] {processor.py:186} INFO - Started process (PID=163) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:50:46.033+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:50:46.039+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:50:46.038+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:50:46.467+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:50:46.594+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:50:46.594+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:50:46.738+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:50:46.737+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:50:46.830+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.811 seconds
+[2024-11-22T16:51:17.176+0000] {processor.py:186} INFO - Started process (PID=167) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:51:17.178+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:51:17.183+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:51:17.182+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:51:17.604+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:51:17.661+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:51:17.660+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:51:17.751+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:51:17.750+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:51:17.813+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.652 seconds
+[2024-11-22T16:51:48.220+0000] {processor.py:186} INFO - Started process (PID=171) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:51:48.222+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:51:48.230+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:51:48.228+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:51:48.705+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:51:48.757+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:51:48.757+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:51:48.813+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:51:48.813+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:51:48.871+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.668 seconds
+[2024-11-22T16:52:19.446+0000] {processor.py:186} INFO - Started process (PID=175) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:52:19.448+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:52:19.455+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:52:19.454+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:52:19.999+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:52:20.048+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:52:20.047+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:52:20.097+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:52:20.097+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:52:20.201+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.776 seconds
+[2024-11-22T16:52:50.730+0000] {processor.py:186} INFO - Started process (PID=179) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:52:50.732+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:52:50.737+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:52:50.736+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:52:51.188+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:52:51.239+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:52:51.238+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:52:51.311+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:52:51.311+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:52:51.358+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.642 seconds
+[2024-11-22T16:53:22.263+0000] {processor.py:186} INFO - Started process (PID=183) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:53:22.277+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:53:22.291+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:53:22.290+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:53:23.286+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:53:23.397+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:53:23.396+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:53:23.528+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:53:23.528+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:53:23.616+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 1.379 seconds
+[2024-11-22T16:53:54.505+0000] {processor.py:186} INFO - Started process (PID=187) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:53:54.507+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:53:54.513+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:53:54.512+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:53:54.983+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:53:55.038+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:53:55.037+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:53:55.094+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:53:55.093+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:53:55.136+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.646 seconds
+[2024-11-22T16:54:25.493+0000] {processor.py:186} INFO - Started process (PID=191) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:54:25.495+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:54:25.500+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:54:25.499+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:54:25.934+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:54:25.978+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:54:25.977+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:54:26.027+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:54:26.026+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:54:26.069+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.589 seconds
+[2024-11-22T16:54:56.787+0000] {processor.py:186} INFO - Started process (PID=195) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:54:56.789+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:54:56.795+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:54:56.794+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:54:57.234+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:54:57.301+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:54:57.301+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:54:57.367+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:54:57.367+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:54:57.419+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.645 seconds
+[2024-11-22T16:55:27.783+0000] {processor.py:186} INFO - Started process (PID=199) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:55:27.786+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:55:27.795+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:55:27.793+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:55:28.325+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:55:28.380+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:55:28.380+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:55:28.437+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:55:28.437+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:55:28.483+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.718 seconds
+[2024-11-22T16:55:58.848+0000] {processor.py:186} INFO - Started process (PID=203) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:55:58.850+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:55:58.855+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:55:58.854+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:55:59.275+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:55:59.321+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:55:59.321+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:55:59.399+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:55:59.398+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:55:59.521+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.686 seconds
+[2024-11-22T16:56:30.034+0000] {processor.py:186} INFO - Started process (PID=207) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:56:30.037+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:56:30.043+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:56:30.042+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:56:30.511+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:56:30.587+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:56:30.586+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:56:30.645+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:56:30.645+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:56:30.703+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.684 seconds
+[2024-11-22T16:57:01.120+0000] {processor.py:186} INFO - Started process (PID=211) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:57:01.122+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:57:01.128+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:57:01.127+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:57:01.602+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:57:01.658+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:57:01.657+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:57:01.716+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:57:01.716+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:57:01.772+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.666 seconds
+[2024-11-22T16:57:32.243+0000] {processor.py:186} INFO - Started process (PID=215) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:57:32.245+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:57:32.253+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:57:32.252+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:57:32.730+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:57:32.779+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:57:32.779+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:57:32.829+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:57:32.829+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:57:32.874+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.646 seconds
+[2024-11-22T16:58:03.476+0000] {processor.py:186} INFO - Started process (PID=219) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:58:03.478+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:58:03.484+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:58:03.483+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:58:03.950+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:58:04.002+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:58:04.002+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:58:04.054+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:58:04.054+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:58:04.097+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.645 seconds
+[2024-11-22T16:58:34.438+0000] {processor.py:186} INFO - Started process (PID=223) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:58:34.440+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:58:34.447+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:58:34.446+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:58:34.915+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:58:34.964+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:58:34.963+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:58:35.020+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:58:35.020+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:58:35.061+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.638 seconds
+[2024-11-22T16:59:05.919+0000] {processor.py:186} INFO - Started process (PID=227) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:59:05.924+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:59:05.941+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:59:05.939+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:59:06.348+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:59:06.390+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:59:06.389+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:59:06.487+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:59:06.487+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:59:06.595+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.713 seconds
+[2024-11-22T16:59:37.163+0000] {processor.py:186} INFO - Started process (PID=231) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T16:59:37.165+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T16:59:37.170+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:59:37.169+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T16:59:37.653+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T16:59:37.702+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:59:37.702+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T16:59:37.770+0000] {logging_mixin.py:190} INFO - [2024-11-22T16:59:37.770+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T16:59:37.812+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.661 seconds
+[2024-11-22T17:00:08.489+0000] {processor.py:186} INFO - Started process (PID=235) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T17:00:08.490+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T17:00:08.493+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:00:08.492+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T17:00:08.685+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T17:00:08.706+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:00:08.706+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T17:00:08.732+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:00:08.732+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T17:00:08.753+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.270 seconds
+[2024-11-22T17:00:39.365+0000] {processor.py:186} INFO - Started process (PID=239) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T17:00:39.366+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T17:00:39.368+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:00:39.368+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T17:00:39.543+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T17:00:39.564+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:00:39.564+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T17:00:39.587+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:00:39.587+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T17:00:39.607+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.248 seconds
+[2024-11-22T17:01:10.223+0000] {processor.py:186} INFO - Started process (PID=243) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T17:01:10.224+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T17:01:10.227+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:01:10.226+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T17:01:10.423+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T17:01:10.443+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:01:10.442+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T17:01:10.469+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:01:10.469+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T17:01:10.491+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.273 seconds
+[2024-11-22T17:01:40.844+0000] {processor.py:186} INFO - Started process (PID=247) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T17:01:40.845+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T17:01:40.847+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:01:40.847+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T17:01:41.032+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T17:01:41.058+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:01:41.057+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T17:01:41.081+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:01:41.080+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T17:01:41.102+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.265 seconds
+[2024-11-22T17:02:11.732+0000] {processor.py:186} INFO - Started process (PID=251) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T17:02:11.734+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T17:02:11.738+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:02:11.738+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T17:02:12.003+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T17:02:12.025+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:02:12.025+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T17:02:12.047+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:02:12.046+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T17:02:12.067+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.348 seconds
+[2024-11-22T17:02:42.717+0000] {processor.py:186} INFO - Started process (PID=255) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T17:02:42.718+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T17:02:42.724+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:02:42.723+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T17:02:42.936+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T17:02:42.961+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:02:42.961+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T17:02:42.985+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:02:42.985+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T17:02:43.006+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.300 seconds
+[2024-11-22T17:03:13.890+0000] {processor.py:186} INFO - Started process (PID=259) to work on /opt/airflow/dags/bmth.py
+[2024-11-22T17:03:13.893+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bmth.py for tasks to queue
+[2024-11-22T17:03:13.898+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:03:13.897+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bmth.py
+[2024-11-22T17:03:14.190+0000] {processor.py:925} INFO - DAG(s) 'bmth' retrieved from /opt/airflow/dags/bmth.py
+[2024-11-22T17:03:14.212+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:03:14.211+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-22T17:03:14.238+0000] {logging_mixin.py:190} INFO - [2024-11-22T17:03:14.238+0000] {dag.py:4180} INFO - Setting next_dagrun for bmth to 2024-11-22 15:00:00+00:00, run_after=2024-11-22 18:00:00+00:00
+[2024-11-22T17:03:14.264+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bmth.py took 0.393 seconds

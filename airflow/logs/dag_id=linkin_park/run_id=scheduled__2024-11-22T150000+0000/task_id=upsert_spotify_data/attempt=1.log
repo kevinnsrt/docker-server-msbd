@@ -1,0 +1,35 @@
+[2024-11-23T08:04:22.421+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-23T08:04:22.446+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: linkin_park.upsert_spotify_data scheduled__2024-11-22T15:00:00+00:00 [queued]>
+[2024-11-23T08:04:22.464+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: linkin_park.upsert_spotify_data scheduled__2024-11-22T15:00:00+00:00 [queued]>
+[2024-11-23T08:04:22.466+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 1
+[2024-11-23T08:04:22.496+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): upsert_spotify_data> on 2024-11-22 15:00:00+00:00
+[2024-11-23T08:04:22.504+0000] {standard_task_runner.py:72} INFO - Started process 345 to run task
+[2024-11-23T08:04:22.510+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'linkin_park', 'upsert_spotify_data', 'scheduled__2024-11-22T15:00:00+00:00', '--job-id', '371', '--raw', '--subdir', 'DAGS_FOLDER/linkin_park.py', '--cfg-path', '/tmp/tmpg_9plfxw']
+[2024-11-23T08:04:22.514+0000] {standard_task_runner.py:105} INFO - Job 371: Subtask upsert_spotify_data
+[2024-11-23T08:04:22.542+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/settings.py:209 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2024-11-23T08:04:22.598+0000] {task_command.py:467} INFO - Running <TaskInstance: linkin_park.upsert_spotify_data scheduled__2024-11-22T15:00:00+00:00 [running]> on host 873bffc6ab09
+[2024-11-23T08:04:22.602+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/settings.py:470 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2024-11-23T08:04:22.757+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='linkin_park' AIRFLOW_CTX_TASK_ID='upsert_spotify_data' AIRFLOW_CTX_EXECUTION_DATE='2024-11-22T15:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-11-22T15:00:00+00:00'
+[2024-11-23T08:04:22.759+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-11-23T08:04:22.896+0000] {logging_mixin.py:190} INFO - Data artis berhasil diupdate.
+[2024-11-23T08:04:22.906+0000] {logging_mixin.py:190} INFO - Data kota São Paulo berhasil diupdate.
+[2024-11-23T08:04:22.910+0000] {logging_mixin.py:190} INFO - Data kota Jakarta berhasil diupdate.
+[2024-11-23T08:04:22.912+0000] {logging_mixin.py:190} INFO - Data kota Paris berhasil diupdate.
+[2024-11-23T08:04:22.915+0000] {logging_mixin.py:190} INFO - Data kota Hamburg berhasil diupdate.
+[2024-11-23T08:04:22.918+0000] {logging_mixin.py:190} INFO - Data kota London berhasil diupdate.
+[2024-11-23T08:04:22.927+0000] {logging_mixin.py:190} INFO - Track The Emptiness Machine berhasil diupdate.
+[2024-11-23T08:04:22.930+0000] {logging_mixin.py:190} INFO - Track Heavy Is the Crown berhasil diupdate.
+[2024-11-23T08:04:22.933+0000] {logging_mixin.py:190} INFO - Track In the End berhasil diupdate.
+[2024-11-23T08:04:22.935+0000] {logging_mixin.py:190} INFO - Track Numb berhasil diupdate.
+[2024-11-23T08:04:22.937+0000] {logging_mixin.py:190} INFO - Track Faint berhasil diupdate.
+[2024-11-23T08:04:22.940+0000] {logging_mixin.py:190} INFO - Track Over Each Other berhasil diupdate.
+[2024-11-23T08:04:22.942+0000] {logging_mixin.py:190} INFO - Track One Step Closer berhasil diupdate.
+[2024-11-23T08:04:22.945+0000] {logging_mixin.py:190} INFO - Track Two Faced berhasil diupdate.
+[2024-11-23T08:04:22.947+0000] {logging_mixin.py:190} INFO - Track What I've Done berhasil diupdate.
+[2024-11-23T08:04:22.950+0000] {logging_mixin.py:190} INFO - Track Bleed It Out berhasil diupdate.
+[2024-11-23T08:04:22.958+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-11-23T08:04:22.972+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-11-23T08:04:22.973+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=linkin_park, task_id=upsert_spotify_data, run_id=scheduled__2024-11-22T15:00:00+00:00, execution_date=20241122T150000, start_date=20241123T080422, end_date=20241123T080422
+[2024-11-23T08:04:23.007+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-11-23T08:04:23.030+0000] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-11-23T08:04:23.032+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

@@ -1,0 +1,20 @@
+[2024-11-22T14:15:24.405+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-22T14:15:24.421+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: bmth.fetch_spotify_data scheduled__2024-11-22T00:00:00+00:00 [queued]>
+[2024-11-22T14:15:24.433+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: bmth.fetch_spotify_data scheduled__2024-11-22T00:00:00+00:00 [queued]>
+[2024-11-22T14:15:24.434+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 1
+[2024-11-22T14:15:24.455+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): fetch_spotify_data> on 2024-11-22 00:00:00+00:00
+[2024-11-22T14:15:24.459+0000] {standard_task_runner.py:72} INFO - Started process 107 to run task
+[2024-11-22T14:15:24.462+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'bmth', 'fetch_spotify_data', 'scheduled__2024-11-22T00:00:00+00:00', '--job-id', '311', '--raw', '--subdir', 'DAGS_FOLDER/bmth.py', '--cfg-path', '/tmp/tmpyt2ojilq']
+[2024-11-22T14:15:24.464+0000] {standard_task_runner.py:105} INFO - Job 311: Subtask fetch_spotify_data
+[2024-11-22T14:15:24.477+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/settings.py:209 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2024-11-22T14:15:24.501+0000] {task_command.py:467} INFO - Running <TaskInstance: bmth.fetch_spotify_data scheduled__2024-11-22T00:00:00+00:00 [running]> on host a87f321d68a4
+[2024-11-22T14:15:24.502+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/settings.py:470 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2024-11-22T14:15:24.574+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='bmth' AIRFLOW_CTX_TASK_ID='fetch_spotify_data' AIRFLOW_CTX_EXECUTION_DATE='2024-11-22T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-11-22T00:00:00+00:00'
+[2024-11-22T14:15:24.575+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-11-22T14:15:26.480+0000] {logging_mixin.py:190} INFO - Spotify data saved to bmth_spotify.json successfully.
+[2024-11-22T14:15:26.483+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-11-22T14:15:26.495+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-11-22T14:15:26.496+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=bmth, task_id=fetch_spotify_data, run_id=scheduled__2024-11-22T00:00:00+00:00, execution_date=20241122T000000, start_date=20241122T141524, end_date=20241122T141526
+[2024-11-22T14:15:26.525+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-11-22T14:15:26.551+0000] {taskinstance.py:3895} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-11-22T14:15:26.555+0000] {local_task_job_runner.py:245} INFO - ::endgroup::
