@@ -1048,3 +1048,96 @@
 [2024-11-23T09:17:14.657+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:17:14.657+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2024-11-23T09:17:14.676+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:17:14.675+0000] {dag.py:4180} INFO - Setting next_dagrun for taylor_swift to 2024-11-23 09:00:00+00:00, run_after=2024-11-23 12:00:00+00:00
 [2024-11-23T09:17:14.703+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/taylor_swift.py took 0.415 seconds
+[2024-11-23T09:17:45.051+0000] {processor.py:186} INFO - Started process (PID=1229) to work on /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:17:45.052+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/taylor_swift.py for tasks to queue
+[2024-11-23T09:17:45.055+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:17:45.054+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:17:45.344+0000] {processor.py:925} INFO - DAG(s) 'taylor_swift' retrieved from /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:17:45.363+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:17:45.363+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-23T09:17:45.382+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:17:45.382+0000] {dag.py:4180} INFO - Setting next_dagrun for taylor_swift to 2024-11-23 09:00:00+00:00, run_after=2024-11-23 12:00:00+00:00
+[2024-11-23T09:17:45.413+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/taylor_swift.py took 0.367 seconds
+[2024-11-23T09:18:15.792+0000] {processor.py:186} INFO - Started process (PID=1233) to work on /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:18:15.792+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/taylor_swift.py for tasks to queue
+[2024-11-23T09:18:15.795+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:18:15.794+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:18:16.120+0000] {processor.py:925} INFO - DAG(s) 'taylor_swift' retrieved from /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:18:16.137+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:18:16.137+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-23T09:18:16.157+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:18:16.157+0000] {dag.py:4180} INFO - Setting next_dagrun for taylor_swift to 2024-11-23 09:00:00+00:00, run_after=2024-11-23 12:00:00+00:00
+[2024-11-23T09:18:16.174+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/taylor_swift.py took 0.389 seconds
+[2024-11-23T09:18:46.908+0000] {processor.py:186} INFO - Started process (PID=1237) to work on /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:18:46.909+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/taylor_swift.py for tasks to queue
+[2024-11-23T09:18:46.911+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:18:46.910+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:18:47.213+0000] {processor.py:925} INFO - DAG(s) 'taylor_swift' retrieved from /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:18:47.230+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:18:47.230+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-23T09:18:47.249+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:18:47.248+0000] {dag.py:4180} INFO - Setting next_dagrun for taylor_swift to 2024-11-23 09:00:00+00:00, run_after=2024-11-23 12:00:00+00:00
+[2024-11-23T09:18:47.269+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/taylor_swift.py took 0.368 seconds
+[2024-11-23T09:19:17.638+0000] {processor.py:186} INFO - Started process (PID=1241) to work on /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:19:17.639+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/taylor_swift.py for tasks to queue
+[2024-11-23T09:19:17.641+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:19:17.640+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:19:17.956+0000] {processor.py:925} INFO - DAG(s) 'taylor_swift' retrieved from /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:19:17.972+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:19:17.972+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-23T09:19:17.989+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:19:17.989+0000] {dag.py:4180} INFO - Setting next_dagrun for taylor_swift to 2024-11-23 09:00:00+00:00, run_after=2024-11-23 12:00:00+00:00
+[2024-11-23T09:19:18.009+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/taylor_swift.py took 0.377 seconds
+[2024-11-23T09:19:48.697+0000] {processor.py:186} INFO - Started process (PID=1245) to work on /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:19:48.697+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/taylor_swift.py for tasks to queue
+[2024-11-23T09:19:48.699+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:19:48.699+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:19:49.003+0000] {processor.py:925} INFO - DAG(s) 'taylor_swift' retrieved from /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:19:49.020+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:19:49.020+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-23T09:19:49.040+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:19:49.040+0000] {dag.py:4180} INFO - Setting next_dagrun for taylor_swift to 2024-11-23 09:00:00+00:00, run_after=2024-11-23 12:00:00+00:00
+[2024-11-23T09:19:49.060+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/taylor_swift.py took 0.368 seconds
+[2024-11-23T09:19:54.153+0000] {processor.py:186} INFO - Started process (PID=1248) to work on /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:19:54.153+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/taylor_swift.py for tasks to queue
+[2024-11-23T09:19:54.156+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:19:54.155+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:19:54.172+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:19:54.169+0000] {dagbag.py:387} ERROR - Failed to import: /opt/airflow/dags/taylor_swift.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/taylor_swift.py", line 1
+    <<<<<<< HEAD
+    ^^
+SyntaxError: invalid syntax
+[2024-11-23T09:19:54.172+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:19:54.191+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/taylor_swift.py took 0.044 seconds
+[2024-11-23T09:20:24.673+0000] {processor.py:186} INFO - Started process (PID=1252) to work on /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:20:24.674+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/taylor_swift.py for tasks to queue
+[2024-11-23T09:20:24.681+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:20:24.680+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:20:24.695+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:20:24.694+0000] {dagbag.py:387} ERROR - Failed to import: /opt/airflow/dags/taylor_swift.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/taylor_swift.py", line 1
+    <<<<<<< HEAD
+    ^^
+SyntaxError: invalid syntax
+[2024-11-23T09:20:24.696+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:20:24.712+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/taylor_swift.py took 0.045 seconds
+[2024-11-23T09:20:55.143+0000] {processor.py:186} INFO - Started process (PID=1256) to work on /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:20:55.144+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/taylor_swift.py for tasks to queue
+[2024-11-23T09:20:55.147+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:20:55.146+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:20:55.163+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:20:55.162+0000] {dagbag.py:387} ERROR - Failed to import: /opt/airflow/dags/taylor_swift.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/taylor_swift.py", line 1
+    <<<<<<< HEAD
+    ^^
+SyntaxError: invalid syntax
+[2024-11-23T09:20:55.164+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:20:55.182+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/taylor_swift.py took 0.046 seconds
+[2024-11-23T09:21:25.624+0000] {processor.py:186} INFO - Started process (PID=1261) to work on /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:21:25.625+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/taylor_swift.py for tasks to queue
+[2024-11-23T09:21:25.627+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:21:25.627+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:21:25.926+0000] {processor.py:925} INFO - DAG(s) 'taylor_swift' retrieved from /opt/airflow/dags/taylor_swift.py
+[2024-11-23T09:21:25.942+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:21:25.942+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-23T09:21:25.960+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:21:25.960+0000] {dag.py:4180} INFO - Setting next_dagrun for taylor_swift to 2024-11-23 09:00:00+00:00, run_after=2024-11-23 12:00:00+00:00
+[2024-11-23T09:21:25.982+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/taylor_swift.py took 0.365 seconds

@@ -1048,3 +1048,96 @@
 [2024-11-23T09:17:17.080+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:17:17.080+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2024-11-23T09:17:17.099+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:17:17.099+0000] {dag.py:4180} INFO - Setting next_dagrun for linkin_park to 2024-11-23 09:00:00+00:00, run_after=2024-11-23 12:00:00+00:00
 [2024-11-23T09:17:17.124+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/linkin_park.py took 0.393 seconds
+[2024-11-23T09:17:47.470+0000] {processor.py:186} INFO - Started process (PID=1230) to work on /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:17:47.471+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/linkin_park.py for tasks to queue
+[2024-11-23T09:17:47.473+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:17:47.473+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:17:47.780+0000] {processor.py:925} INFO - DAG(s) 'linkin_park' retrieved from /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:17:47.797+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:17:47.797+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-23T09:17:47.814+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:17:47.814+0000] {dag.py:4180} INFO - Setting next_dagrun for linkin_park to 2024-11-23 09:00:00+00:00, run_after=2024-11-23 12:00:00+00:00
+[2024-11-23T09:17:47.851+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/linkin_park.py took 0.387 seconds
+[2024-11-23T09:18:18.207+0000] {processor.py:186} INFO - Started process (PID=1234) to work on /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:18:18.208+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/linkin_park.py for tasks to queue
+[2024-11-23T09:18:18.210+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:18:18.210+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:18:18.518+0000] {processor.py:925} INFO - DAG(s) 'linkin_park' retrieved from /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:18:18.534+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:18:18.534+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-23T09:18:18.553+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:18:18.553+0000] {dag.py:4180} INFO - Setting next_dagrun for linkin_park to 2024-11-23 09:00:00+00:00, run_after=2024-11-23 12:00:00+00:00
+[2024-11-23T09:18:18.575+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/linkin_park.py took 0.374 seconds
+[2024-11-23T09:18:49.323+0000] {processor.py:186} INFO - Started process (PID=1238) to work on /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:18:49.324+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/linkin_park.py for tasks to queue
+[2024-11-23T09:18:49.326+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:18:49.326+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:18:49.625+0000] {processor.py:925} INFO - DAG(s) 'linkin_park' retrieved from /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:18:49.643+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:18:49.643+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-23T09:18:49.660+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:18:49.660+0000] {dag.py:4180} INFO - Setting next_dagrun for linkin_park to 2024-11-23 09:00:00+00:00, run_after=2024-11-23 12:00:00+00:00
+[2024-11-23T09:18:49.679+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/linkin_park.py took 0.362 seconds
+[2024-11-23T09:19:20.005+0000] {processor.py:186} INFO - Started process (PID=1242) to work on /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:19:20.006+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/linkin_park.py for tasks to queue
+[2024-11-23T09:19:20.008+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:19:20.008+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:19:20.306+0000] {processor.py:925} INFO - DAG(s) 'linkin_park' retrieved from /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:19:20.322+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:19:20.322+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-23T09:19:20.343+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:19:20.342+0000] {dag.py:4180} INFO - Setting next_dagrun for linkin_park to 2024-11-23 09:00:00+00:00, run_after=2024-11-23 12:00:00+00:00
+[2024-11-23T09:19:20.361+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/linkin_park.py took 0.362 seconds
+[2024-11-23T09:19:50.738+0000] {processor.py:186} INFO - Started process (PID=1246) to work on /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:19:50.739+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/linkin_park.py for tasks to queue
+[2024-11-23T09:19:50.742+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:19:50.741+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:19:51.066+0000] {processor.py:925} INFO - DAG(s) 'linkin_park' retrieved from /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:19:51.083+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:19:51.082+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-23T09:19:51.101+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:19:51.101+0000] {dag.py:4180} INFO - Setting next_dagrun for linkin_park to 2024-11-23 09:00:00+00:00, run_after=2024-11-23 12:00:00+00:00
+[2024-11-23T09:19:51.116+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/linkin_park.py took 0.383 seconds
+[2024-11-23T09:19:54.222+0000] {processor.py:186} INFO - Started process (PID=1250) to work on /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:19:54.223+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/linkin_park.py for tasks to queue
+[2024-11-23T09:19:54.225+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:19:54.225+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:19:54.241+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:19:54.240+0000] {dagbag.py:387} ERROR - Failed to import: /opt/airflow/dags/linkin_park.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/linkin_park.py", line 1
+    <<<<<<< HEAD
+    ^^
+SyntaxError: invalid syntax
+[2024-11-23T09:19:54.242+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:19:54.259+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/linkin_park.py took 0.042 seconds
+[2024-11-23T09:20:24.743+0000] {processor.py:186} INFO - Started process (PID=1254) to work on /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:20:24.743+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/linkin_park.py for tasks to queue
+[2024-11-23T09:20:24.746+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:20:24.746+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:20:24.761+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:20:24.760+0000] {dagbag.py:387} ERROR - Failed to import: /opt/airflow/dags/linkin_park.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/linkin_park.py", line 1
+    <<<<<<< HEAD
+    ^^
+SyntaxError: invalid syntax
+[2024-11-23T09:20:24.762+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:20:24.779+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/linkin_park.py took 0.042 seconds
+[2024-11-23T09:20:55.215+0000] {processor.py:186} INFO - Started process (PID=1258) to work on /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:20:55.216+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/linkin_park.py for tasks to queue
+[2024-11-23T09:20:55.219+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:20:55.219+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:20:55.236+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:20:55.235+0000] {dagbag.py:387} ERROR - Failed to import: /opt/airflow/dags/linkin_park.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/linkin_park.py", line 1
+    <<<<<<< HEAD
+    ^^
+SyntaxError: invalid syntax
+[2024-11-23T09:20:55.237+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:20:55.255+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/linkin_park.py took 0.045 seconds
+[2024-11-23T09:21:26.009+0000] {processor.py:186} INFO - Started process (PID=1262) to work on /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:21:26.010+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/linkin_park.py for tasks to queue
+[2024-11-23T09:21:26.012+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:21:26.012+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:21:26.281+0000] {processor.py:925} INFO - DAG(s) 'linkin_park' retrieved from /opt/airflow/dags/linkin_park.py
+[2024-11-23T09:21:26.298+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:21:26.298+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-23T09:21:26.314+0000] {logging_mixin.py:190} INFO - [2024-11-23T09:21:26.314+0000] {dag.py:4180} INFO - Setting next_dagrun for linkin_park to 2024-11-23 09:00:00+00:00, run_after=2024-11-23 12:00:00+00:00
+[2024-11-23T09:21:26.337+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/linkin_park.py took 0.333 seconds
