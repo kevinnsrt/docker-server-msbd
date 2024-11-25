@@ -26,7 +26,7 @@ services:
       - mysql_data:/var/lib/mysql  
     ports:
     - "3306:3306"
-
+  
   phpmyadmin:
     image: phpmyadmin:latest
     environment:
@@ -38,18 +38,27 @@ services:
     depends_on:
       - mysql
 
+  mongodb-bi-connector:
+    image: ryanhs/mongodb-bi-connector:latest
+    environment:
+      MONGODB_HOST: mongo
+      MONGODB_PORT: 27017
+    ports:
+      - "3307:3307"
+
   mongo:
     image: mongo:latest
     restart: always
     environment:
-      MONGO_INITDB_ROOT_USERNAME: root
-      MONGO_INITDB_ROOT_PASSWORD: '123'
+      MONGO_INITDB_ROOT_USERNAME: ""
+      MONGO_INITDB_ROOT_PASSWORD: ""
     volumes:
       - mongo_data:/data/db
       - ./dump:/dump  
     ports:
-      - "27017:27017"  
-  
+      - "28017:27017"
+
+
 volumes:
   mysql_data:
   mongo_data:
